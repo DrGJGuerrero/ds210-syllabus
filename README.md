@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.makeschool.com">
-      <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
+  <a href="https://www.saintpeters.edu/">
+      <img alt="Saint Peter's Logo" src="./Web/primaryLogojpg" height="110">
   </a>
 </p>
 
