@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# DS 210 - Introduction to Data Science
+# DS 210 - NEW Introduction to Data Science
 
 ### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
 
