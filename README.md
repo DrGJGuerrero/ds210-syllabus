@@ -10,9 +10,10 @@
 
 ## Course Description 
 <p>
-  <a href="audio1.html">
+  <a href="audio1.html"> Click for audio
       <img alt="Saint Peter's Logo" src="./Web/shield.jpg" height="50">
   </a>
+  
 </p>
 
 #### [click for audio](audio1.html)
