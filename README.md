@@ -2,14 +2,9 @@
   <a href="https://www.saintpeters.edu/">
       <img alt="Saint Peter's Logo" src="./Web/primaryLogo.jpg" height="110">
   </a>
-  Audio option
 </p>
-<audio controls>
-  <source src="./Web/testaudio.m4a" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
-# DS 210 - NEW Introduction to Data Science
+# DS 210 - Introduction to Data Science
 
 ### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
 
