@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Title
+# DS 210 - Introduction to Data Science
 
 ### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
 
