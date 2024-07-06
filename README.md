@@ -25,10 +25,11 @@ Understanding data science equips you with critical thinking skills and the abil
 ## Prerequisites:  
 
 - [DS 310 Principles of Data Mining](https://www.saintpeters.edu/academics/undergraduate-programs/data-science/courses/)
-
 ## Course Specifics
 
-**Course Delivery**: Synchronous; In-Person | 14 weeks | 42 sessions
+**Course Delivery**: 
+
+Synchronous; In-Person | 14 weeks | 42 sessions
 
 **Course Credits**: 
 
