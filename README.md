@@ -10,7 +10,7 @@
 
 ## Course Description 
 <p>
-  <a href="test.html"> 
+  <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio1.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>  
 </p>
