@@ -6,7 +6,7 @@
 
 # DS 210 - Introduction to Data Science
 
-### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
+### [Welcome Video](./Web/shield.jpg) <-- Remove this before updating your repo
 
 ## Course Description
 
