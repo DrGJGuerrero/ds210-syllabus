@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://www.saintpeters.edu/">
       <img alt="Saint Peter's Logo" src="./Web/primaryLogo.jpg" height="110">
   </a>
