@@ -10,7 +10,7 @@
 
 ## Course Description 
 <p>
-  <a href="audio1.html"> 
+  <a href="./audio1.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>  
 </p>
