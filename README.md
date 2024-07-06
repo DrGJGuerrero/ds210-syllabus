@@ -11,7 +11,7 @@
 ## Course Description 
 <p>
   <a href="audio1.html"> 
-      <img alt="Audio" src="./Web/audio_icon.jpg" height="50">
+      <img alt="Sound" src="./Web/sound.svg" height="50">
   </a>  
 </p>
 
