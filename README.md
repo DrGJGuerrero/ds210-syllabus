@@ -24,23 +24,16 @@ Understanding data science equips you with critical thinking skills and the abil
 
 ## Prerequisites:  
 
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+- [DS 310 Principles of Data Mining](https://www.saintpeters.edu/academics/undergraduate-programs/data-science/courses/)
 
 ## Course Specifics
 
-### **[INSTRUCTOR NOTE: PICK YOUR COURSE DELIVERY FORMAT, # OF WEEKS, AND # of CLASS SESSIONS BELOW. DELETE THE OTHER OPTIONS]**
-
-**Course Delivery**: Bichronous / Synchronous | 7/9 weeks | 12/14/16/18 sessions
-
-### **[INSTRUCTOR NOTE: BASED ON YOUR COURSE DELIVERY FORMAT AND TYPE OF COURSE (TECH VS S&L) PICK THE APPROPRIATE COURSE CREDIT OPTION BELOW. SEE THE [CHART HERE](https://docs.google.com/document/d/1r9QY5jGyChmMwHsTh1cW9ipyONnpJjg_Y_9t3_M2Ahc/edit?ts=60898720) FOR MORE DETAILS]**
+**Course Delivery**: Synchronous; In-Person | 14 weeks | 42 sessions
 
 **Course Credits**: 
 
-- Tech - Synchronous: 3 units | 37.5 Contact Hours/Term | 92 Non-Contact Hours/Term | 129.5 Total Hours/Term
-- Tech - Bichronous: 3 units | 14 Contact Hours/Term | 115.5 Non-Contact Hours/Term | 129.5 Total Hours/Term
-- S&L - Synchronous: 4 units | 50 Contact Hours/Term | 119 Non-Contact Hours/Term | 169 Total Hours/Term
-- S&L - Bichronous: 4 units | 27 Contact Hours/Term | 142 Non-Contact Hours/Term | 169 Total Hours/Term
+3 units | 35 Contact Hours/Term
+
 
 
 ## Learning Outcomes
