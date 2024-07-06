@@ -6,7 +6,7 @@
 
 # DS 210 - Introduction to Data Science
 
-### [Welcome Video](./Web/shield.jpg)
+### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
 
 ## Course Description
 
