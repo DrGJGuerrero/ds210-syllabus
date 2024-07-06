@@ -1,2 +1,2 @@
 *  **[Syllabus](README.md)**
-* [Make School](https://www.makeschool.com)
+* [Data Science Institute](https://www.saintpeters.edu/data-science-institute/)
