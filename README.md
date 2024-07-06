@@ -7,9 +7,9 @@
 # DS 210 - Introduction to Data Science
 
 ### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
-
+---
 ## Course Description 
-
+---
   <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio1.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
@@ -22,11 +22,13 @@ Data Science is a set of fundamental principles that guide the extraction of val
 
 Understanding data science equips you with critical thinking skills and the ability to analyze real-world problems, opening up vast career opportunities in tech, finance, healthcare, and beyond. By learning data science, you can leverage data-driven insights to make informed decisions and drive impactful changes for the greater good of others.
 
-## Prerequisites:  
-
+---
+## Prerequisites  
+---
 - [DS 310 Principles of Data Mining](https://www.saintpeters.edu/academics/undergraduate-programs/data-science/courses/)
+---
 ## Course Specifics
-
+---
 **Course Delivery**: 
 
 Synchronous; In-Person | 14 weeks | 42 sessions
@@ -35,31 +37,23 @@ Synchronous; In-Person | 14 weeks | 42 sessions
 
 3 units | 35 Contact Hours/Term
 
-
-
+---
 ## Learning Outcomes
-
-### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
-
+---
 By the end of the course, you will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1. Discuss data science trends and skills
+2. Understand database query concepts
+3. Apply fundamental statistical modeling
+4. Use basic machine learning algorithms
+5. Preview industry-standard software
+6. Describe business data utilization
+7. Analyze real-world datasets
 
-
+---
 ## Schedule
-
 ---
 
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MAY 31]**
-
-Please pick from a template below and delete the other ones
-
-
----
 
 ### **M/W TECH Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
 
