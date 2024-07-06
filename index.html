@@ -162,16 +162,110 @@
       }
     </script>
 <script>
-const message = new SpeechSynthesisUtterance();
+//const message = new SpeechSynthesisUtterance();
 
 // set the text to be spoken
-message.text = "Data Science is a set of fundamental principles that guide the extraction of valuable information and knowledge from data. This course provides an overview and develops student’s understanding of the data science and analytics landscape in the context of business examples and other emerging fields. It also provides students with an understanding of the most common methods used in data analysis. Topics covered include introduction to predictive modeling, data visualization, probability distributions, Bayes’ theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.";
+//message.text = "Data Science is a set of fundamental principles that guide the extraction of valuable information and knowledge from data. This course provides an overview and develops student’s understanding of the data science and analytics landscape in the context of business examples and other emerging fields. It also provides students with an understanding of the most common methods used in data analysis. Topics covered include introduction to predictive modeling, data visualization, probability distributions, Bayes’ theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.";
 
 // create an instance of the speech synthesis object
-const speechSynthesis = window.speechSynthesis;
+//const speechSynthesis = window.speechSynthesis;
 
 // start speaking
-speechSynthesis.speak(message);
+//speechSynthesis.speak(message);
+//</script>
+
+const text = 'Data Science is a set of fundamental principles that guide the extraction of valuable information and knowledge from data. This course provides an overview and develops student’s understanding of the data science and analytics landscape in the context of business examples and other emerging fields. It also provides students with an understanding of the most common methods used in data analysis. Topics covered include introduction to predictive modeling, data visualization, probability distributions, Bayes’ theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.";
+
+// grab the UI elements to work with
+const textEl = document.getElementById('text');
+const playEl = document.getElementById('play');
+const pauseEl = document.getElementById('pause');
+const stopEl = document.getElementById('stop');
+
+// add UI event handlers
+playEl.addEventListener('click', play);
+pauseEl.addEventListener('click', pause);
+stopEl.addEventListener('click', stop);
+
+// set text
+textEl.innerHTML = text;
+
+function play() {
+  if (window.speechSynthesis.speaking) {
+    // there's an unfinished utterance
+    window.speechSynthesis.resume();
+  } else {
+    // start new utterance
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.addEventListener('start', handleStart);
+    utterance.addEventListener('pause', handlePause);
+    utterance.addEventListener('resume', handleResume);
+    utterance.addEventListener('end', handleEnd);
+    utterance.addEventListener('boundary', handleBoundary);
+    window.speechSynthesis.speak(utterance);
+  }
+}
+
+function pause() {
+  window.speechSynthesis.pause();
+}
+
+function stop() {
+  window.speechSynthesis.cancel();
+  
+  // Safari doesn't fire the 'end' event when cancelling, so call handler manually
+  handleEnd();
+}
+
+function handleStart() {
+  playEl.disabled = true;
+  pauseEl.disabled = false;
+  stopEl.disabled = false;
+}
+
+function handlePause() {
+  playEl.disabled = false;
+  pauseEl.disabled = true;
+  stopEl.disabled = false;
+}
+
+function handleResume() {
+  playEl.disabled = true;
+  pauseEl.disabled = false;
+  stopEl.disabled = false;
+}
+
+function handleEnd() {
+  playEl.disabled = false;
+  pauseEl.disabled = true;
+  stopEl.disabled = true;
+  
+  // reset text to remove mark
+  textEl.innerHTML = text;
+}
+
+function handleBoundary(event) {
+  if (event.name === 'sentence') {
+    // we only care about word boundaries
+    return;
+  }
+
+  const wordStart = event.charIndex;
+
+  let wordLength = event.charLength;
+  if (wordLength === undefined) {
+    // Safari doesn't provide charLength, so fall back to a regex to find the current word and its length (probably misses some edge cases, but good enough for this demo)
+    const match = text.substring(wordStart).match(/^[a-z\d']*/i);
+    wordLength = match[0].length;
+  }
+  
+  // wrap word in <mark> tag
+  const wordEnd = wordStart + wordLength;
+  const word = text.substring(wordStart, wordEnd);
+  const markedText = text.substring(0, wordStart) + '<mark>' + word + '</mark>' + text.substring(wordEnd);
+  textEl.innerHTML = markedText;
+}
 </script>
+    
   </body>
 </html>
