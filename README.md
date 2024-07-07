@@ -132,7 +132,7 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Blackboard login is your Saint Peter's University email, and your password can be changed at [Saint Peter's Technology Services](https://saintpeters.teamdynamix.com/TDClient/1977/Portal/Home/). 
 
-If you need additional support, tutoring is provided by the online service [Peardeck Tutor] (https://tutor.peardeck.com/tutors/) part of Saint Peter's University or reach out to me directly for assistance.
+If you need additional support, tutoring is provided by the online service [Peardeck Tutor](https://tutor.peardeck.com/tutors/) part of Saint Peter's University or reach out to me directly for assistance.
 
 ## Evaluation
 
