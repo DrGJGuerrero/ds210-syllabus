@@ -58,11 +58,11 @@ By the end of the course, you will be able to ...
 
 **Term Dates:** Wednesday, August 28 – Tuesday, December 17, 2024 (17 weeks)
 
-**Class Times:** Monday, Wednesday, Thursdays at 11:00am–11:50am (42 class sessions)
+**Class Times:** Monday, Wednesday, Thursday at 11:00am–11:50am (42 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, August 28      | [Welcome] |
+|  1 |  Wed, August 28      | [WELCOME!!] |
 |  2 |  Thurs, August 29    | [In-Class Assessment] |
 |  - |  Mon, September 2    | **No Class - Labor Day** |
 |  3 |  Wed, September 4    | [Probability Basics] |
@@ -76,19 +76,19 @@ By the end of the course, you will be able to ...
 | 11 |  Mon, September 23   | [Regression] |
 | -  |  Wed, September 25   | **No Class - Michaelmas Convocation** |
 | 12 |  Thurs, September 26 | [In-Class Assessment] |
-| 13 |  Mon, September 30   | [R Programming] |
+| 13 |  Mon, September 30   | [R Analytics] |
 | 14 |  Wed, October 2      | [Interdisciplinary Research] |
 | 15 |  Thurs, October 3    | [Midterm Exam] |
-| 16 |  Mon, October 7      | [R Programming] |
+| 16 |  Mon, October 7      | [R Analytics] |
 | 17 |  Wed, October 9      | [Interdisciplinary Research] |
 | 18 |  Thurs, October 10   | [In-Class Assessment] |
-| 19 |  Mon, October 14     | [Python Programming] |
+| 19 |  Mon, October 14     | [Data Python] |
 | 20 |  Wed, October 16     | [Interdisciplinary Research] |
 | 21 |  Thurs, October 17   | [In-Class Assessment] |
-| 22 |  Mon, October 21     | [Python Programming] |
+| 22 |  Mon, October 21     | [Data Python] |
 | 23 |  Wed, October 23     | [Interdisciplinary Research] |
 | 24 |  Thurs, October 24   | [In-Class Assessment] |
-| 25 |  Mon, October 28     | [Data Visualization] |
+| 25 |  Mon, October 28     | [Visual Insights] |
 | 26 |  Wed, October 30     | [Interdisciplinary Research] |
 | 27 |  Thurs, October 31   | [In-Class Assessment] |
 | 28 |  Mon, November 4     | [Excel/PowerBi] |
