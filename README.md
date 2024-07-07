@@ -36,6 +36,7 @@ Understanding data science equips you with critical thinking skills and the abil
 <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio2.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
+
   
 **Course Delivery**: 
 
