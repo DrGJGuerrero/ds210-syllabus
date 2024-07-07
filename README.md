@@ -72,98 +72,64 @@ By the end of the course, you will be (BETTER) able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, August 28      | [WELCOME!!] |
-|  2 |  Thurs, August 29    | [In-Class Assessment] |
+|  1 |  Wed, August 28      | WELCOME!! |
+|  2 |  Thurs, August 29    | In-Class Assessment |
 |  - |  Mon, September 2    | **No Class - Labor Day** |
-|  3 |  Wed, September 4    | [Probability Basics] |
-|  4 |  Thurs, September 5  | [In-Class Assessment] |
-|  5 |  Mon, September 9    | [Exploratory Data Analysis] |
-|  6 |  Wed, September 11   | [Interdisciplinary Research] |
-|  7 |  Thurs, September 12 | [In-Class Assessment] |
-|  8 |  Mon, September 16   | [Database Queries/SQL] |
-|  9 |  Wed, September 18   | [Interdisciplinary Research] |
-| 10 |  Thurs, September 19 | [In-Class Assessment] |
-| 11 |  Mon, September 23   | [Regression] |
+|  3 |  Wed, September 4    | Probability Basics |
+|  4 |  Thurs, September 5  | In-Class Assessment |
+|  5 |  Mon, September 9    | Exploratory Data Analysis |
+|  6 |  Wed, September 11   | Interdisciplinary Research |
+|  7 |  Thurs, September 12 | In-Class Assessment |
+|  8 |  Mon, September 16   | Database Queries/SQL |
+|  9 |  Wed, September 18   | Interdisciplinary Research] |
+| 10 |  Thurs, September 19 | In-Class Assessment |
+| 11 |  Mon, September 23   | Regression |
 | -  |  Wed, September 25   | **No Class - Michaelmas Convocation** |
-| 12 |  Thurs, September 26 | [In-Class Assessment] |
-| 13 |  Mon, September 30   | [R Analytics] |
-| 14 |  Wed, October 2      | [Interdisciplinary Research] |
-| 15 |  Thurs, October 3    | [Midterm Exam] |
-| 16 |  Mon, October 7      | [R Analytics] |
-| 17 |  Wed, October 9      | [Interdisciplinary Research] |
-| 18 |  Thurs, October 10   | [In-Class Assessment] |
-| 19 |  Mon, October 14     | [Data Python] |
-| 20 |  Wed, October 16     | [Interdisciplinary Research] |
-| 21 |  Thurs, October 17   | [In-Class Assessment] |
-| 22 |  Mon, October 21     | [Data Python] |
-| 23 |  Wed, October 23     | [Interdisciplinary Research] |
-| 24 |  Thurs, October 24   | [In-Class Assessment] |
-| 25 |  Mon, October 28     | [Visual Insights] |
-| 26 |  Wed, October 30     | [Interdisciplinary Research] |
-| 27 |  Thurs, October 31   | [In-Class Assessment] |
-| 28 |  Mon, November 4     | [Excel/PowerBi] |
-| 29 |  Wed, November 6     | [Interdisciplinary Research] |
-| 30 |  Thurs, November 7   | [In-Class Assessment] |
-| 31 |  Mon, November 11    | [Tableau] |
-| 32 |  Wed, November 13    | [Interdisciplinary Research] |
-| 33 |  Thurs, November 14  | [In-Class Assessment] |
-| 34 |  Mon, November 18    | [Data Storytelling] |
-| 35 |  Wed, November 20    | [Interdisciplinary Research] |
-| 36 |  Thurs, November 21  | [In-Class Assessment] |
-| 37 |  Mon, November 25    | [Machine Learning] |
+| 12 |  Thurs, September 26 | In-Class Assessment |
+| 13 |  Mon, September 30   | R Analytics |
+| 14 |  Wed, October 2      | Interdisciplinary Research |
+| 15 |  Thurs, October 3    | Midterm Exam |
+| 16 |  Mon, October 7      | R Analytics |
+| 17 |  Wed, October 9      | Interdisciplinary Research |
+| 18 |  Thurs, October 10   | In-Class Assessment |
+| 19 |  Mon, October 14     | Data Python |
+| 20 |  Wed, October 16     | Interdisciplinary Research |
+| 21 |  Thurs, October 17   | In-Class Assessment |
+| 22 |  Mon, October 21     | Data Python |
+| 23 |  Wed, October 23     | Interdisciplinary Research |
+| 24 |  Thurs, October 24   | In-Class Assessment |
+| 25 |  Mon, October 28     | Visual Insights |
+| 26 |  Wed, October 30     | Interdisciplinary Research |
+| 27 |  Thurs, October 31   | In-Class Assessment |
+| 28 |  Mon, November 4     | Excel/PowerBi |
+| 29 |  Wed, November 6     | Interdisciplinary Research |
+| 30 |  Thurs, November 7   | In-Class Assessment |
+| 31 |  Mon, November 11    | Tableau |
+| 32 |  Wed, November 13    | Interdisciplinary Research |
+| 33 |  Thurs, November 14  | In-Class Assessment |
+| 34 |  Mon, November 18    | Data Storytelling |
+| 35 |  Wed, November 20    | Interdisciplinary Research |
+| 36 |  Thurs, November 21  | In-Class Assessment |
+| 37 |  Mon, November 25    | Machine Learning |
 | -  |  Wed, November 27    | **No Class - Thanksgiving Break** |
 | -  |  Thurs, November 28  | **No Class - Thanksgiving Break** |
-| 38 |  Mon, December 2     | [Term Group Project] |
-| 39 |  Wed, December 4     | [Term Group Project] |
-| 40 |  Thurs, December 5   | [Term Group Project] |
+| 38 |  Mon, December 2     | Term Group Project |
+| 39 |  Wed, December 4     | Term Group Project |
+| 40 |  Thurs, December 5   | Term Group Project |
 | 41 |  Mon, December 9     | CELEBRATION!! Term Group Project Presentation |
 | 42 |  TBD                 | Final Exam - Mock Job Interview |
 
----
-
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
-[Lesson 15]: Lessons/Lesson14.md
-[Lesson 16]: Lessons/Lesson14.md
-[Lesson 17]: Lessons/Lesson14.md
-[Lesson 18]: Lessons/Lesson14.md
-[Lesson 19]: Lessons/Lesson14.md
-[Lesson 20]: Lessons/Lesson14.md
-
-## Assignment Schedule 
-
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
-
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-
 ## Class Assignments
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+We will be using [Blackboard](https://saintpeters.blackboard.com/), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Blackboard, and assignment and exam grades will be returned through Blackboard.*
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+Your Blackboard login is your Saint Peter's University email, and your password can be changed at [Saint Peter's Technology Services](https://saintpeters.teamdynamix.com/TDClient/1977/Portal/Home/). 
 
-### Tutorials
+### Tutor
 
-- [Do Cool Stuff Tutorial]()
+- [Peardeck Tutor: Tutoring provided to you through Saint Peter's University](https://tutor.peardeck.com/tutors/)
 
 ### Projects
 
