@@ -63,7 +63,7 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Wed, August 28      | [Welcome] |
-|  2 |  Thurs, August 28    | [In-Class Assessment] |
+|  2 |  Thurs, August 29    | [In-Class Assessment] |
 |  - |  Mon, September 2    | **No Class - Labor Day** |
 |  3 |  Wed, September 4    | [Probability Basics] |
 |  4 |  Thurs, September 5  | [In-Class Assessment] |
