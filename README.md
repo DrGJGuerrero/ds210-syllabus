@@ -150,7 +150,7 @@ To pass this course you must meet the following requirements:
 Resources you may need can be found here and accessible online or reserve through the O'Toole library at Saint Peter's university: 
 
 ### OER (Open Education Resource) Textbooks
-The University of Queenlands Library (2024). Work with Data and Files. uq.pressbooks.pub, United Kingdom. Retrieved from [https://uq.pressbooks.pub/digital-essentials-data-and-files/](https://uq.pressbooks.pub/digital-essentials-data-and-files/).
+The University of Queenlands Library (2024). <em> Work with Data and Files </em>. uq.pressbooks.pub, United Kingdom. Retrieved from [https://uq.pressbooks.pub/digital-essentials-data-and-files/](https://uq.pressbooks.pub/digital-essentials-data-and-files/).
 
 Emese Felvegi (2024). Open Data Cases. uhlibraries.pressbooks.pub, Houston, USA. Retrieved from [https://uhlibraries.pressbooks.pub/opendatacases/](https://uhlibraries.pressbooks.pub/opendatacases/).
 
