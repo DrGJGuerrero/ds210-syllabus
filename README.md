@@ -152,32 +152,11 @@ Resources you may need can be found here and accessible online or reserve throug
 ### OER (Open Education Resource) Textbooks
 The University of Queenlands Library (2024). <em>Work with Data and Files.</em> University of Queenlands Pressbooks, United Kingdom. Retrieved from [https://uq.pressbooks.pub/digital-essentials-data-and-files/](https://uq.pressbooks.pub/digital-essentials-data-and-files/).
 
-Emese Felvegi (2024). <em>Open Data Cases.</em> Simplebook Publishing, United States. Retrieved from [https://uhlibraries.pressbooks.pub/opendatacases/](https://uhlibraries.pressbooks.pub/opendatacases/).
+E. Felvegi (2024). <em>Open Data Cases.</em> Simplebook Publishing, United States. Retrieved from [https://uhlibraries.pressbooks.pub/opendatacases/](https://uhlibraries.pressbooks.pub/opendatacases/).
 
-## Interview Topics
+Y. Anthony (2024). <em>Statistics Through an Equity Lens.</em> ROTEL Project, United States. Retrieved from [https://rotel.pressbooks.pub/statisticsthroughequitylens/](https://rotel.pressbooks.pub/statisticsthroughequitylens/).
 
-Write what topis your course covers that students may encounter in a technical interview. Choose from the following sub-topics (pick all that apply):
-
-### Algorithmic/Computer Science
-
-Example topics:
-
-- Sorting algorithms
-- Search algorithms
-- Runtime Complexity
-- Data Structures
-- etc.
-
-### Technical Discussion
-
-Example topics:
-
-- Memory management
-- CRUD
-- Deploying a live app
-- etc.
-
-## Make School Course Policies
+## Saint Peter's University: Data Science Institute Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
