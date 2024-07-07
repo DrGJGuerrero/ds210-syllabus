@@ -6,7 +6,7 @@
 
 # DS 210 - Introduction to Data Science
      
-### [Welcome Video](https://drive.google.com/file/d/1CCjEkBurruscaLk-ayFfAa52gqXds0hM/view?usp=sharing)
+### [Welcome Video](https://drive.google.com/file/d/1_SSYtBMzHD8QUnMaq8gjkUolrqXFUVYA/view?usp=sharing)
 
   <a href="https://saintpeterspeacocks.com/"> 
       <img alt="Mascot" src="./Web/mascot.png" height="200">
