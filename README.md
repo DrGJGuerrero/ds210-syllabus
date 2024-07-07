@@ -107,38 +107,6 @@ By the end of the course, you will be able to ...
 
 ---
 
-### **W/F S&L Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
-
-**Course Dates:** Wednesday, June 2 – Friday, July 30, 2021 (9 weeks)
-
-**Class Times:** Wednesday, Friday at 12:45pm–2:15pm (18 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, June 2         | [Lesson 1] |
-|  2 |  Fri, June 4         | [Lesson 2] |
-|  3 |  Wed, June 9         | [Lesson 3] |
-|  4 |  Fri, June 11        | [Lesson 4] |
-|  5 |  Wed, June 16        | [Lesson 5] |
-|  6 |  Fri, June 18        | [Lesson 6] |
-|  7 |  Wed, June 23        | [Lesson 7] |
-|  8 |  Fri, June 25        | [Lesson 8] |
-|  9 |  Wed, June 30        | [Lesson 9] |
-| 10 |  Fri, July 2         | [Lesson 10] |
-| 11 |  Wed, July 7         | [Lesson 11] |
-| 12 |  Fri, July 9        | [Lesson 12] |
-| 13 |  Wed, July 14        | [Lesson 13] |
-| 14 |  Fri, July 16        | [Lesson 14] |
-| 15 |  Wed, July 21        | [Lesson 15] |
-| 16 |  Fri, July 23        | [Lesson 16] |
-| 17 |  Wed, July 28        | [Lesson 17] |
-| 18 |  Fri, July 30        | Final Exam/Presentations |
-
-
----
-
-
-
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
@@ -159,80 +127,6 @@ By the end of the course, you will be able to ...
 [Lesson 18]: Lessons/Lesson14.md
 [Lesson 19]: Lessons/Lesson14.md
 [Lesson 20]: Lessons/Lesson14.md
-
-
-## Tabbed Schedule - EXAMPLE
-
-**How to make a tabbed schedule.**
-
-- The code that does this is in comments, so view the raw markdown to see what's going on.
-- When you view the Docsify website of the course, the tabs will appear.
-- They will NOT appear by just viewing on GitHub
-
-### Instructions
-
-1. Copy the appropriate schedule(s) from the above list with the correct dates
-1. View the example below and copy the commented out code to generate the tabs:
-    1. `<!-- tabs:start -->` - put at the beginning of where you want tabs
-    1. `<!-- omit in toc -->` - put at the beginning of each header within the tabs
-    1. `<!-- tabs:end -->` - put at the end of where you want tabs (i.e. at the end of the last schedule)
-
-**See below example**
-
-<!-- tabs:start -->
-<!-- omit in toc -->
-### **Section A: INSTRUCTOR NAME - HYBRID**
-
-**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
-
-**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
-
-Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
-
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | [Lesson 1] |
-|  2 |  Thu, June 3         | [Lesson 2] |
-|  3 |  Tue, June 8         | [Lesson 3] |
-|  4 |  Thu, June 10        | [Lesson 4] |
-|  5 |  Tue, June 15        | [Lesson 5] |
-|  6 |  Thu, June 17        | [Lesson 6] |
-|  7 |  Tue, June 22        | [Lesson 7] |
-|  8 |  Thu, June 24        | [Lesson 8] |
-|  9 |  Tue, June 29        | [Lesson 9] |
-| 10 |  Thu, July 1         | [Lesson 10] |
-| 11 |  Tue, July 6         | [Lesson 11] |
-| 12 |  Thu, July 8         | [Lesson 12] |
-| 13 |  Tue, July 13        | [Lesson 13] |
-| 14 |  Thu, July 15        | Final Exam/Presentations |
-
-<!-- omit in toc -->
-### **Section B: INSTRUCTOR NAME**
-
-**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
-
-**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
-
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | [Lesson 1] |
-|  2 |  Thu, June 3         | [Lesson 2] |
-|  3 |  Tue, June 8         | [Lesson 3] |
-|  4 |  Thu, June 10        | [Lesson 4] |
-|  5 |  Tue, June 15        | [Lesson 5] |
-|  6 |  Thu, June 17        | [Lesson 6] |
-|  7 |  Tue, June 22        | [Lesson 7] |
-|  8 |  Thu, June 24        | [Lesson 8] |
-|  9 |  Tue, June 29        | [Lesson 9] |
-| 10 |  Thu, July 1         | [Lesson 10] |
-| 11 |  Tue, July 6         | [Lesson 11] |
-| 12 |  Thu, July 8         | [Lesson 12] |
-| 13 |  Tue, July 13        | [Lesson 13] |
-| 14 |  Thu, July 15        | Final Exam/Presentations |
-
-<!-- tabs:end -->
 
 ## Assignment Schedule 
 
