@@ -33,6 +33,10 @@ Understanding data science equips you with critical thinking skills and the abil
 
 ## Course Specifics
 
+<a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio2.html"> 
+      <img alt="Sound" src="./Web/sound.svg" height="25">
+  </a>
+  
 **Course Delivery**: 
 
 Synchronous; In-Person | 14 weeks | 42 sessions
