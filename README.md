@@ -7,9 +7,9 @@
 # DS 210 - Introduction to Data Science
 
 ### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
----
+
 ## Course Description 
----
+
   <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio1.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
@@ -22,13 +22,13 @@ Data Science is a set of fundamental principles that guide the extraction of val
 
 Understanding data science equips you with critical thinking skills and the ability to analyze real-world problems, opening up vast career opportunities in tech, finance, healthcare, and beyond. By learning data science, you can leverage data-driven insights to make informed decisions and drive impactful changes for the greater good of others.
 
----
+
 ## Prerequisites  
----
+
 - [DS 310 Principles of Data Mining](https://www.saintpeters.edu/academics/undergraduate-programs/data-science/courses/)
----
+
 ## Course Specifics
----
+
 **Course Delivery**: 
 
 Synchronous; In-Person | 14 weeks | 42 sessions
@@ -37,9 +37,8 @@ Synchronous; In-Person | 14 weeks | 42 sessions
 
 3 units | 35 Contact Hours/Term
 
----
 ## Learning Outcomes
----
+
 By the end of the course, you will be able to ...
 
 1. Discuss data science trends and skills
@@ -50,125 +49,12 @@ By the end of the course, you will be able to ...
 6. Describe business data utilization
 7. Analyze real-world datasets
 
----
 ## Schedule
----
+**Class Location:** Dinneen Hall, G36
 
+**Term Dates:** Wednesday, August 28 – Tuesday, December 17, 2024 (17 weeks)
 
-### **M/W TECH Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
-
-**Course Dates:** Monday, May 31 – Wednesday, July 14, 2021 (7 weeks)
-
-**Class Times:** Monday, Wednesday at 4:00pm–5:30pm (12 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | [Lesson 1] |
-|  2 |  Mon, June 7         | [Lesson 2] |
-|  3 |  Wed, June 9         | [Lesson 3] |
-|  4 |  Mon, June 14        | [Lesson 4] |
-|  5 |  Wed, June 16        | [Lesson 5] |
-|  6 |  Mon, June 21        | [Lesson 6] |
-|  7 |  Wed, June 23        | [Lesson 7] |
-|  8 |  Mon, June 28        | [Lesson 8] |
-|  9 |  Wed, June 30        | [Lesson 9] |
-| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
-| 10 |  Wed, July 7         | [Lesson 10] |
-| 11 |  Mon, July 12        | [Lesson 11] |
-| 12 |  Wed, July 14        | Final Exam/Presentations |
-
----
-
-### **M/W S&L Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
-
-**Course Dates:** Monday, May 31 – Wednesday, July 28, 2021 (9 weeks)
-
-**Class Times:** Monday, Wednesday at 4:00pm–5:30pm (16 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | [Lesson 1] |
-|  2 |  Mon, June 7         | [Lesson 2] |
-|  3 |  Wed, June 9         | [Lesson 3] |
-|  4 |  Mon, June 14        | [Lesson 4] |
-|  5 |  Wed, June 16        | [Lesson 5] |
-|  6 |  Mon, June 21        | [Lesson 6] |
-|  7 |  Wed, June 23        | [Lesson 7] |
-|  8 |  Mon, June 28        | [Lesson 8] |
-|  9 |  Wed, June 30        | [Lesson 9] |
-| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
-| 10 |  Wed, July 7         | [Lesson 10] |
-| 11 |  Mon, July 12        | [Lesson 11] |
-| 12 |  Wed, July 14        | [Lesson 12] |
-| 13 |  Mon, July 19        | [Lesson 13] |
-| 14 |  Wed, July 21        | [Lesson 14] |
-| 15 |  Mon, July 26        | [Lesson 15] |
-| 16 |  Wed, July 28        | Final Exam/Presentations |
-
-
----
-
-### **Tu/Th TECH Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
-
-**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
-
-**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | [Lesson 1] |
-|  2 |  Thu, June 3         | [Lesson 2] |
-|  3 |  Tue, June 8         | [Lesson 3] |
-|  4 |  Thu, June 10        | [Lesson 4] |
-|  5 |  Tue, June 15        | [Lesson 5] |
-|  6 |  Thu, June 17        | [Lesson 6] |
-|  7 |  Tue, June 22        | [Lesson 7] |
-|  8 |  Thu, June 24        | [Lesson 8] |
-|  9 |  Tue, June 29        | [Lesson 9] |
-| 10 |  Thu, July 1         | [Lesson 10] |
-| 11 |  Tue, July 6         | [Lesson 11] |
-| 12 |  Thu, July 8         | [Lesson 12] |
-| 13 |  Tue, July 13        | [Lesson 13] |
-| 14 |  Thu, July 15        | Final Exam/Presentations |
-
----
-
-### **Tu/Th S&L Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
-
-**Course Dates:** Tuesday, June 1 – Thursday, July 29, 2021 (9 weeks)
-
-**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (18 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | [Lesson 1] |
-|  2 |  Thu, June 3         | [Lesson 2] |
-|  3 |  Tue, June 8         | [Lesson 3] |
-|  4 |  Thu, June 10        | [Lesson 4] |
-|  5 |  Tue, June 15        | [Lesson 5] |
-|  6 |  Thu, June 17        | [Lesson 6] |
-|  7 |  Tue, June 22        | [Lesson 7] |
-|  8 |  Thu, June 24        | [Lesson 8] |
-|  9 |  Tue, June 29        | [Lesson 9] |
-| 10 |  Thu, July 1         | [Lesson 10] |
-| 11 |  Tue, July 6         | [Lesson 11] |
-| 12 |  Thu, July 8         | [Lesson 12] |
-| 13 |  Tue, July 13        | [Lesson 13] |
-| 14 |  Thu, July 15        | [Lesson 14] |
-| 15 |  Tue, July 20        | [Lesson 15] |
-| 16 |  Thu, July 22        | [Lesson 16] |
-| 17 |  Tue, July 27        | [Lesson 17] |
-| 18 |  Thu, July 29        | Final Exam/Presentations |
-
----
-
-### **M/W/F TECH Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
-
-**Course Dates:** Monday, May 31 – Friday, July 16, 2021 (7 weeks)
-
-**Class Times:** Monday, Wednesday, Friday at 9:30am–11:15am (19 class sessions)
+**Class Times:** Monday, Wednesday, Thursdays at 11:00am–11:50am (42 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
