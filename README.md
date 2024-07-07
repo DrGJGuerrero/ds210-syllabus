@@ -1,6 +1,6 @@
 <p>
   <a href="https://www.saintpeters.edu/">
-      <img alt="Saint Peter's Logo" src="./Web/primaryLogo.jpg" height="110">
+      <img alt="Saint Peter's Logo" src="./Web/primaryLogo.jpg" height="90">
   </a>
 </p>
 
@@ -58,27 +58,52 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | [Lesson 1] |
-|  2 |  Fri, June 4         | [Lesson 2] |
-|  3 |  Mon, June 7         | [Lesson 3] |
-|  4 |  Wed, June 9         | [Lesson 4] |
-|  5 |  Fri, June 11        | [Lesson 5] |
-|  6 |  Mon, June 14        | [Lesson 6] |
-|  7 |  Wed, June 16        | [Lesson 7] |
-|  8 |  Fri, June 18        | [Lesson 8] |
-|  9 |  Mon, June 21        | [Lesson 9] |
-| 10 |  Wed, June 23        | [Lesson 10] |
-| 11 |  Fri, June 25        | [Lesson 11] |
-| 12 |  Mon, June 28        | [Lesson 12] |
-| 13 |  Wed, June 30        | [Lesson 13] |
-| 14 |  Fri, July 2         | [Lesson 14] |
-| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
-| 15 |  Wed, July 7         | [Lesson 15] |
-| 16 |  Fri, July 9         | [Lesson 16] |
-| 17 |  Mon, July 12        | [Lesson 17] |
-| 18 |  Wed, July 14        | [Lesson 18] |
-| 19 |  Fri, July 16        | Final Exam/Presentations |
+|  1 |  Wed, August 28      | [Introduction] |
+|  2 |  Thurs, August 28    | [In-Class Assessment] |
+|  - |  Mon, September 2    | **No Class - Labor Day** |
+|  3 |  Wed, September 4    | [Probability Basics] |
+|  4 |  Thurs, September 5  | [In-Class Assessment] |
+|  5 |  Mon, September 9    | [Exploratory Data Analysis] |
+|  6 |  Wed, September 11   | [Interdisciplinary Research] |
+|  7 |  Thurs, September 12 | [In-Class Assessment] |
+|  8 |  Mon, September 16   | [Database Queries/SQL] |
+|  9 |  Wed, September 18   | [Interdisciplinary Research] |
+| 10 |  Thurs, September 19 | [In-Class Assessment] |
+| 11 |  Mon, September 23   | [Regression] |
+| -  |  Wed, September 25   | **No Class - Michaelmas Convocation** |
+| 12 |  Thurs, September 26 | [In-Class Assessment] |
+| 13 |  Mon, September 30   | [R Programming] |
+| 14 |  Wed, October 2      | [Interdisciplinary Research] |
+| 15 |  Thurs, July 9       | [Midterm Exam] |
+| 16 |  Mon, July 12        | [R Programming] |
+| 17 |  Wed, July 14        | [Interdisciplinary Research] |
+| 18 |  Thurs, June 23      | [In-Class Assessment] |
+| 19 |  Mon, June 18        | [Python Programming] |
+| 20 |  Wed, June 21        | [Interdisciplinary Research] |
+| 21 |  Thurs, June 23      | [In-Class Assessment] |
+| 22 |  Mon, June 18        | [Python Programming] |
+| 23 |  Wed, June 21        | [Interdisciplinary Research] |
+| 24 |  Thurs, June 23      | [In-Class Assessment] |
+| 25 |  Mon, June 18        | [Data Visualization] |
+| 26 |  Wed, June 21        | [Interdisciplinary Research] |
+| 27 |  Thurs, June 23      | [In-Class Assessment] |
+| 28 |  Mon, June 18        | [Lesson 8] |
+| 29 |  Wed, June 21        | [Lesson 9] |
+| 30 |  Thurs, June 23      | [In-Class Assessment] |
+| 31 |  Mon, June 18        | [Lesson 8] |
+| 32 |  Wed, June 21        | [Lesson 9] |
+| 33 |  Thurs, June 23      | [In-Class Assessment] |
+| 34 |  Mon, June 18        | [Lesson 8] |
+| 35 |  Wed, June 21        | [Lesson 9] |
+| 36 |  Thurs, June 23      | [In-Class Assessment] |
+| 37 |  Mon, June 25        | [Lesson 11] |
+| -  |  Wed, July 5         | **No Class - Thanksgiving Break** |
+| -  |  Thurs, July 5       | **No Class - Thanksgiving Break** |
+| 38 |  Mon, June 18        | [Lesson 8] |
+| 39 |  Wed, June 21        | [Lesson 9] |
+| 40 |  Thurs, June 23      | [In-Class Assessment] |
+| 41 |  Mon, June 25        | [Presentation] |
+| 42 |  TBD                 | Final Exam - Interviews |
 
 ---
 
