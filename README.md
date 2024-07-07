@@ -74,35 +74,35 @@ By the end of the course, you will be able to ...
 | 12 |  Thurs, September 26 | [In-Class Assessment] |
 | 13 |  Mon, September 30   | [R Programming] |
 | 14 |  Wed, October 2      | [Interdisciplinary Research] |
-| 15 |  Thurs, July 9       | [Midterm Exam] |
-| 16 |  Mon, July 12        | [R Programming] |
-| 17 |  Wed, July 14        | [Interdisciplinary Research] |
-| 18 |  Thurs, June 23      | [In-Class Assessment] |
-| 19 |  Mon, June 18        | [Python Programming] |
-| 20 |  Wed, June 21        | [Interdisciplinary Research] |
-| 21 |  Thurs, June 23      | [In-Class Assessment] |
-| 22 |  Mon, June 18        | [Python Programming] |
-| 23 |  Wed, June 21        | [Interdisciplinary Research] |
-| 24 |  Thurs, June 23      | [In-Class Assessment] |
-| 25 |  Mon, June 18        | [Data Visualization] |
-| 26 |  Wed, June 21        | [Interdisciplinary Research] |
-| 27 |  Thurs, June 23      | [In-Class Assessment] |
-| 28 |  Mon, June 18        | [Lesson 8] |
-| 29 |  Wed, June 21        | [Lesson 9] |
-| 30 |  Thurs, June 23      | [In-Class Assessment] |
-| 31 |  Mon, June 18        | [Lesson 8] |
-| 32 |  Wed, June 21        | [Lesson 9] |
-| 33 |  Thurs, June 23      | [In-Class Assessment] |
-| 34 |  Mon, June 18        | [Lesson 8] |
-| 35 |  Wed, June 21        | [Lesson 9] |
-| 36 |  Thurs, June 23      | [In-Class Assessment] |
-| 37 |  Mon, June 25        | [Lesson 11] |
-| -  |  Wed, July 5         | **No Class - Thanksgiving Break** |
-| -  |  Thurs, July 5       | **No Class - Thanksgiving Break** |
-| 38 |  Mon, June 18        | [Lesson 8] |
-| 39 |  Wed, June 21        | [Lesson 9] |
-| 40 |  Thurs, June 23      | [In-Class Assessment] |
-| 41 |  Mon, June 25        | [Presentation] |
+| 15 |  Thurs, October 3    | [Midterm Exam] |
+| 16 |  Mon, October 7      | [R Programming] |
+| 17 |  Wed, October 9      | [Interdisciplinary Research] |
+| 18 |  Thurs, October 10   | [In-Class Assessment] |
+| 19 |  Mon, October 14     | [Python Programming] |
+| 20 |  Wed, October 16     | [Interdisciplinary Research] |
+| 21 |  Thurs, October 17   | [In-Class Assessment] |
+| 22 |  Mon, October 21     | [Python Programming] |
+| 23 |  Wed, October 23     | [Interdisciplinary Research] |
+| 24 |  Thurs, October 24   | [In-Class Assessment] |
+| 25 |  Mon, October 28     | [Data Visualization] |
+| 26 |  Wed, October 30     | [Interdisciplinary Research] |
+| 27 |  Thurs, October 31   | [In-Class Assessment] |
+| 28 |  Mon, November 4     | [Excel/PowerBi] |
+| 29 |  Wed, November 6     | [Interdisciplinary Research] |
+| 30 |  Thurs, November 7   | [In-Class Assessment] |
+| 31 |  Mon, November 11    | [Tableau] |
+| 32 |  Wed, November 13    | [Interdisciplinary Research] |
+| 33 |  Thurs, November 14  | [In-Class Assessment] |
+| 34 |  Mon, November 18    | [Data Storytelling] |
+| 35 |  Wed, November 20    | [Interdisciplinary Research] |
+| 36 |  Thurs, November 21  | [In-Class Assessment] |
+| 37 |  Mon, November 25    | [Machine Learning] |
+| -  |  Wed, November 27    | **No Class - Thanksgiving Break** |
+| -  |  Thurs, November 28  | **No Class - Thanksgiving Break** |
+| 38 |  Mon, December 2     | [Term Project] |
+| 39 |  Wed, December 4     | [Interdisciplinary Research] |
+| 40 |  Thurs, December 5   | [In-Class Assessment] |
+| 41 |  Mon, December 9     | Term Project Presentation |
 | 42 |  TBD                 | Final Exam - Interviews |
 
 ---
