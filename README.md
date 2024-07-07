@@ -9,7 +9,7 @@
 ### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
 
   <a href="https://saintpeterspeacocks.com/"> 
-      <img alt="Mascot" src="./Web/mascot.png" height="100">
+      <img alt="Mascot" src="./Web/mascot.png" height="200">
   </a>
 
 ## Course Description 
