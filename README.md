@@ -6,7 +6,8 @@
 
 # DS 210 - Introduction to Data Science
 
-      <img alt="Pete" src="./Web/mascot.png" height="90">
+     <p> <img alt="Pete" src="./Web/mascot.png" height="90"> </p>
+     
 ### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
 
 ## Course Description 
