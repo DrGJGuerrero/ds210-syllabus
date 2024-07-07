@@ -81,7 +81,7 @@ By the end of the course, you will be (BETTER) able to ...
 |  6 |  Wed, September 11   | Interdisciplinary Research |
 |  7 |  Thurs, September 12 | In-Class Assessment |
 |  8 |  Mon, September 16   | Database Queries/SQL |
-|  9 |  Wed, September 18   | Interdisciplinary Research] |
+|  9 |  Wed, September 18   | Interdisciplinary Research |
 | 10 |  Thurs, September 19 | In-Class Assessment |
 | 11 |  Mon, September 23   | Regression |
 | -  |  Wed, September 25   | **No Class - Michaelmas Convocation** |
