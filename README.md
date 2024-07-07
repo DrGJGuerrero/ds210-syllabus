@@ -156,7 +156,7 @@ E. Felvegi (2024). <em>Open Data Cases.</em> Simplebook Publishing, United State
 
 Y. Anthony (2024). <em>Statistics Through an Equity Lens.</em> ROTEL Project, United States. Retrieved from [https://rotel.pressbooks.pub/statisticsthroughequitylens/](https://rotel.pressbooks.pub/statisticsthroughequitylens/).
 
-## Saint Peter's University: Data Science Institute Policies
+## Institution Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
