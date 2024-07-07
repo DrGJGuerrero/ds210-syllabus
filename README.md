@@ -6,6 +6,7 @@
 
 # DS 210 - Introduction to Data Science
 
+      <img alt="Pete" src="./Web/mascot.png" height="90">
 ### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
 
 ## Course Description 
@@ -58,7 +59,7 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, August 28      | [Introduction] |
+|  1 |  Wed, August 28      | [Welcome] |
 |  2 |  Thurs, August 28    | [In-Class Assessment] |
 |  - |  Mon, September 2    | **No Class - Labor Day** |
 |  3 |  Wed, September 4    | [Probability Basics] |
@@ -100,9 +101,9 @@ By the end of the course, you will be able to ...
 | -  |  Wed, November 27    | **No Class - Thanksgiving Break** |
 | -  |  Thurs, November 28  | **No Class - Thanksgiving Break** |
 | 38 |  Mon, December 2     | [Term Project] |
-| 39 |  Wed, December 4     | [Interdisciplinary Research] |
-| 40 |  Thurs, December 5   | [In-Class Assessment] |
-| 41 |  Mon, December 9     | Term Project Presentation |
+| 39 |  Wed, December 4     | [Term Project] |
+| 40 |  Thurs, December 5   | [Term Project] |
+| 41 |  Mon, December 9     | CELEBRATION!! Term Project Presentation |
 | 42 |  TBD                 | Final Exam - Interviews |
 
 ---
