@@ -43,7 +43,7 @@ Synchronous; In-Person | 14 weeks | 42 sessions
 
 ## Learning Outcomes
 
-By the end of the course, you will be able to ...
+By the end of the course, you will be (BETTER) able to ...
 
 1. Discuss data science trends and skills
 2. Understand database query concepts
