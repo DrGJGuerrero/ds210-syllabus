@@ -113,11 +113,11 @@ By the end of the course, you will be (BETTER) able to ...
 | 37 |  Mon, November 25    | [Machine Learning] |
 | -  |  Wed, November 27    | **No Class - Thanksgiving Break** |
 | -  |  Thurs, November 28  | **No Class - Thanksgiving Break** |
-| 38 |  Mon, December 2     | [Term Project] |
-| 39 |  Wed, December 4     | [Term Project] |
-| 40 |  Thurs, December 5   | [Term Project] |
-| 41 |  Mon, December 9     | CELEBRATION!! Term Project Presentation |
-| 42 |  TBD                 | Final Exam - Interviews |
+| 38 |  Mon, December 2     | [Term Group Project] |
+| 39 |  Wed, December 4     | [Term Group Project] |
+| 40 |  Thurs, December 5   | [Term Group Project] |
+| 41 |  Mon, December 9     | CELEBRATION!! Term Group Project Presentation |
+| 42 |  TBD                 | Final Exam - Mock Job Interview |
 
 ---
 
