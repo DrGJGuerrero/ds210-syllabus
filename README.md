@@ -48,6 +48,11 @@ Synchronous; In-Person | 14 weeks | 42 sessions
 
 ## Learning Outcomes
 
+<a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio3.html"> 
+      <img alt="Sound" src="./Web/sound.svg" height="25">
+  </a>
+
+  
 By the end of the course, you will be (BETTER) able to ...
 
 1. Discuss data science trends and skills
