@@ -64,6 +64,7 @@ By the end of the course, you will be (BETTER) able to ...
 7. Analyze real-world datasets
 
 ## Schedule
+
 <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio4.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
