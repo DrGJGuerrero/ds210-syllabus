@@ -6,7 +6,9 @@
 
 # DS 210 - Introduction to Data Science
 
-     <p> <img alt="Pete" src="./Web/mascot.png" height="90"> </p>
+    <a href="https://saintpeterspeacocks.com/"> 
+    <img alt="Pete" src="./Web/mascot.png" height="90">  </a>
+    
      
 ### [Welcome Video](https://drive.google.com/file/d/16RJNwD3Qi18y3vBwB3NHrDLwX_doeUxj/view)
 
