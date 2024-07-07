@@ -136,28 +136,24 @@ Your Blackboard login is your Saint Peter's University email, and your password 
 
 - [Peardeck Tutor: Tutoring provided to you through Saint Peter's University](https://tutor.peardeck.com/tutors/)
 
-### Projects
-
-- [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
-
 ## Evaluation
-
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
 
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments 
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
+- Complete all required assessments 
+- Pass the term group project according to the associated project rubric
+- Pass the midterm summative assessment according to the exam rubric
+- Pass the final mock job interview according to the rubric mutually designed
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
 ##  Information Resources
 
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+Resources you may need can be found here and accessible online or reserve through the O'Toole library at Saint Peter's university: 
 
-- [make.sc/library](http://make.sc/library)
+OER (Open Education Resource) Textbooks
+The University of Queenlands Library (2024). Work with Data and Files. uq.pressbooks.pub, United Kingdom. Retrieved from [https://uq.pressbooks.pub/digital-essentials-data-and-files/](https://uq.pressbooks.pub/digital-essentials-data-and-files/).
+
 
 ## Interview Topics
 
