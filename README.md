@@ -145,6 +145,10 @@ If you need additional support, tutoring is provided by the online service [Pear
 
 ## Evaluation
 
+<a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio6.html"> 
+      <img alt="Sound" src="./Web/sound.svg" height="25">
+  </a>
+
 To pass this course you must meet the following requirements:
 
 - Complete all required assessments 
@@ -162,7 +166,7 @@ Project 15%
 Midterm Exam 15% 
 Mock Job Interviews 25% 
 
-## Grading Scale
+### Grading Scale
 
 The following grading scale will be used in this class.
 
