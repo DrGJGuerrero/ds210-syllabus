@@ -160,17 +160,17 @@ The following grading scale will be used in this class.
 
 | Letter Grade |          Average in Course          |
 |:-----:|:----------------------:|
-|  A |  94 - 100    |
+|  A  |  94 - 100   |
 |  A- |  90 - 93    |
 |  B+ |  87 - 89    |
-|  B |  83 - 86    |
+|  B  |  83 - 86    |
 |  B- |  80 - 82    |
 |  C+ |  77 - 79    |
-|  C |  73 - 76    |
+|  C  |  73 - 76    |
 |  C- |  70 - 72    |
 |  D+ |  67 - 69    |
-|  D |  60 - 66    |
-|  F |  0 - 59    |
+|  D  |  60 - 66    |
+|  F  |  0 - 59     |
 
 ##  Information Resources
 
