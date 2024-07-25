@@ -159,12 +159,12 @@ To pass this course you must meet the following requirements:
 - Make up all classwork from all absences
 
 Your final grade will be based:
-Check-in assessments 10%
-Sound Bytes 10%
-Homework/classwork 25% 
-Project 15% 
-Midterm Exam 15% 
-Mock Job Interviews 25% 
+- Check-in assessments 10%
+- Sound Bytes 10%
+- Homework/classwork 25% 
+- Project 15% 
+- Midterm Exam 15% 
+- Mock Job Interviews 25% 
 
 ### Grading Scale
 
