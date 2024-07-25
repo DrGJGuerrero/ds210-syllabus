@@ -1,6 +1,6 @@
-## Learning Outcomes
+## Program Learning Outcomes
 
-<a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio3.html"> 
+<a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio5.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
