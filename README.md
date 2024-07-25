@@ -64,8 +64,8 @@ Synchronous; In-Person | 14 weeks | 42 sessions
   
 Upon successful completion of this course, you will be (BETTER) able to ...
 - Problem solve and analyze data
-- Utilize effective critical thinking skills 
-   
+- Utilize effective critical thinking skills
+
 ## Schedule
 
 <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio4.html"> 
