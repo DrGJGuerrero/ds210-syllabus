@@ -52,9 +52,6 @@ Synchronous; In-Person | 14 weeks | 42 sessions
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
-  
-By the end of the course, you will be (BETTER) able to ...
-
 1. Discuss data science trends and skills
 2. Understand database query concepts
 3. Apply fundamental statistical modeling
@@ -63,12 +60,11 @@ By the end of the course, you will be (BETTER) able to ...
 6. Describe business data utilization
 7. Analyze real-world datasets
 
-## Course Student Learning Outcomes
+### Course Student Learning Outcomes
   
 Upon successful completion of this course, you will be (BETTER) able to ...
-
-1. Problem solve and analyze data
-2. Utilize effective critical thinking skills 
+- Problem solve and analyze data
+- Utilize effective critical thinking skills 
    
 ## Schedule
 
