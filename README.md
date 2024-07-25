@@ -154,6 +154,14 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
+Your final grade will be based:
+Check-in assessments 10%
+Sound Bytes 10%
+Homework/classwork 25% 
+Project 15% 
+Midterm Exam 15% 
+Mock Job Interviews 25% 
+
 ## Grading Scale
 
 The following grading scale will be used in this class.
@@ -194,5 +202,4 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
