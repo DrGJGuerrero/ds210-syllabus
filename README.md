@@ -158,7 +158,7 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-Your final grade will be based:
+Your final grade will be based on:
 - Check-in assessments 10%
 - Sound Bytes 10%
 - Homework/classwork 25% 
