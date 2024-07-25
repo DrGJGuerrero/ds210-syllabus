@@ -1,1 +1,163 @@
+<html>
+  <body>
+
+<div class="wrapper">
+  <div id="text"></div>
+  <div class="buttons">
+    <button id="play">Play</button>
+    <button id="pause" disabled>Pause</button>
+    <button id="stop" disabled>Stop</button>
+  </div>
+</div>
+  <style>
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+
+}
+
+.wrapper {
+  width: 800px;
+  max-width: calc(100vw - 40px);
+
+}
+
+#text {
+  display: block;
+  line-height: 1.75;
+  font-size: 20;
+  font-family: arial;
+}
+
+mark {
+  color: #000;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  gap: 10px;
+  margin-top: 30px;
+  padding-top: 30px;
+  border-top: 1px solid #fff3;
+}
+
+button {
+  padding: 5px;
+  border: 1px solid #fff;
+  border-radius: 999px;
+  color: #fff;
+  background-color: #0009;
+  font-size: inherit;
+  font-family: inherit;
+  cursor: pointer;
+  appearance: none;
+}
+
+button:disabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+} 
+    </style>
+  <script>
+    const text = "Evaluation. To pass this course you must meet the following requirements: Complete all required assessments, pass the term group project according to the associated project rubric, pass the midterm summative assessment according to the exam rubric, pass the final mock job interview according to the rubric mutually designed, actively participate in class and abide by the attendance policy, make up all classwork from all absences. Your final grade will be based:Check-in assessments 10% Sound Bytes 10% Homework/classwork 25% Project 15% Midterm Exam 15% Mock Job Interviews 25% Grading Scale. The following grading scale will be used in this class: | A  |  94 - 100   | A- |  90 - 93    | B+ |  87 - 89    | B  |  83 - 86    | B- |  80 - 82    | C+ |  77 - 79    | C  |  73 - 76    | C- |  70 - 72    | D+ |  67 - 69    | D  |  60 - 66    | F  |  0 - 59     |
+"
+      
+// grab the UI elements to work with
+const textEl = document.getElementById('text');
+const playEl = document.getElementById('play');
+const pauseEl = document.getElementById('pause');
+const stopEl = document.getElementById('stop');
+
+// add UI event handlers
+playEl.addEventListener('click', play);
+pauseEl.addEventListener('click', pause);
+stopEl.addEventListener('click', stop);
+
+// set text
+textEl.innerHTML = text;
+
+function play() {
+  if (window.speechSynthesis.speaking) {
+    // there's an unfinished utterance
+    window.speechSynthesis.resume();
+  } else {
+    // start new utterance
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.addEventListener('start', handleStart);
+    utterance.addEventListener('pause', handlePause);
+    utterance.addEventListener('resume', handleResume);
+    utterance.addEventListener('end', handleEnd);
+    utterance.addEventListener('boundary', handleBoundary);
+    window.speechSynthesis.speak(utterance);
+  }
+}
+
+function pause() {
+  window.speechSynthesis.pause();
+}
+
+function stop() {
+  window.speechSynthesis.cancel();
+  
+  // Safari doesn't fire the 'end' event when cancelling, so call handler manually
+  handleEnd();
+}
+
+function handleStart() {
+  playEl.disabled = true;
+  pauseEl.disabled = false;
+  stopEl.disabled = false;
+}
+
+function handlePause() {
+  playEl.disabled = false;
+  pauseEl.disabled = true;
+  stopEl.disabled = false;
+}
+
+function handleResume() {
+  playEl.disabled = true;
+  pauseEl.disabled = false;
+  stopEl.disabled = false;
+}
+
+function handleEnd() {
+  playEl.disabled = false;
+  pauseEl.disabled = true;
+  stopEl.disabled = true;
+  
+  // reset text to remove mark
+  textEl.innerHTML = text;
+}
+
+function handleBoundary(event) {
+  if (event.name === 'sentence') {
+    // we only care about word boundaries
+    return;
+  }
+
+  const wordStart = event.charIndex;
+
+  let wordLength = event.charLength;
+  if (wordLength === undefined) {
+    // Safari doesn't provide charLength, so fall back to a regex to find the current word and its length (probably misses some edge cases, but good enough for this demo)
+    const match = text.substring(wordStart).match(/^[a-z\d']*/i);
+    wordLength = match[0].length;
+  }
+  
+  // wrap word in <mark> tag
+  const wordEnd = wordStart + wordLength;
+  const word = text.substring(wordStart, wordEnd);
+  const markedText = text.substring(0, wordStart) + '<mark>' + word + '</mark>' + text.substring(wordEnd);
+  textEl.innerHTML = markedText;
+}
+  </script>
+</body>
+</html>
+
+
 
