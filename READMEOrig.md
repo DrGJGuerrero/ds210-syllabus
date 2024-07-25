@@ -120,7 +120,7 @@ By the end of the course, you will be (BETTER) able to ...
 | 42 |  TBD                 | Final Exam - Mock Job Interview |
 
 ---
-
+## Lessons
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
