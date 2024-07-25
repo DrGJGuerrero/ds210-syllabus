@@ -135,7 +135,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
   </a>
 
 
-We will be using [Blackboard](https://saintpeters.blackboard.com/), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Blackboard, and assignment and exam grades will be returned through Blackboard.*
+We will be using [Blackboard](https://saintpeters.blackboard.com/), which allows us to provide fast and accurate feedback on your work.  <em>All assigned work will be submitted through Blackboard and assignment and exam grades will be returned through Blackboard.</em>
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
