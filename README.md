@@ -162,7 +162,7 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
 
 ## Institution Policies
 
-- [Program Learning Outcomes](https://drgjguerrero.github.io/ds210-syllabus/.PLO/README.md) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Program Learning Outcomes] PLO/README.md - What you will achieve after the completion of this course.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
 - [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
