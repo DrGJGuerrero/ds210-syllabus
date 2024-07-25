@@ -150,11 +150,15 @@ To pass this course you must meet the following requirements:
 Resources you may need can be found here and accessible online or reserve through the O'Toole library at Saint Peter's university: 
 
 #### OER (Open Education Resource) Textbooks
-U.Q. Library (2024). <em>Work with Data and Files.</em> University of Queenlands Pressbooks, United Kingdom. Retrieved from [https://uq.pressbooks.pub/digital-essentials-data-and-files/](https://uq.pressbooks.pub/digital-essentials-data-and-files/).
+Anthony, Y. (2024). <em>Statistics Through an Equity Lens.</em> ROTEL Project, United States. Retrieved from [https://rotel.pressbooks.pub/statisticsthroughequitylens/](https://rotel.pressbooks.pub/statisticsthroughequitylens/).
 
-E. Felvegi (2024). <em>Open Data Cases.</em> Simplebook Publishing, United States. Retrieved from [https://uhlibraries.pressbooks.pub/opendatacases/](https://uhlibraries.pressbooks.pub/opendatacases/).
+Felvegi, E. (2024). <em>Open Data Cases.</em> Simplebook Publishing, United States. Retrieved from [https://uhlibraries.pressbooks.pub/opendatacases/](https://uhlibraries.pressbooks.pub/opendatacases/).
 
-Y. Anthony (2024). <em>Statistics Through an Equity Lens.</em> ROTEL Project, United States. Retrieved from [https://rotel.pressbooks.pub/statisticsthroughequitylens/](https://rotel.pressbooks.pub/statisticsthroughequitylens/).
+Library, U.Q. (2024). <em>Work with Data and Files.</em> University of Queenlands Pressbooks, United Kingdom. Retrieved from [https://uq.pressbooks.pub/digital-essentials-data-and-files/](https://uq.pressbooks.pub/digital-essentials-data-and-files/).
+
+Kenett, R. S., & Redman, T. C. (2019). <em>The real work of data science : Turning data into information, better decisions, and stronger organizations. </em> John Wiley & Sons, Incorporated. ProQuest Ebook Central, [https://ebookcentral.proquest.com/lib/stpu/reader.action?docID=5741750](https://ebookcentral.proquest.com/lib/stpu/reader.action?docID=5741750).
+
+Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em> Facet Publishing. ProQuest Ebook Central, [https://ebookcentral.proquest.com/lib/stpu/detail.action?docID=6244431](https://ebookcentral.proquest.com/lib/stpu/detail.action?docID=6244431).
 
 ## Institution Policies
 
