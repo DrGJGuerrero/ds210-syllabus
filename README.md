@@ -46,7 +46,7 @@ Synchronous; In-Person | 14 weeks | 42 sessions
 
 3 units | 35 Contact Hours/Term
 
-## Learning Outcomes
+## Program Student Learning Outcomes
 
 <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio3.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
@@ -63,6 +63,13 @@ By the end of the course, you will be (BETTER) able to ...
 6. Describe business data utilization
 7. Analyze real-world datasets
 
+## Course Student Learning Outcomes
+  
+Upon successful completion of this course, you will be (BETTER) able to ...
+
+1. Problem solve and analyze data
+2. Utilize effective critical thinking skills 
+   
 ## Schedule
 
 <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio4.html"> 
@@ -162,8 +169,6 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
 
 ## Institution Policies
 
-- [Program Learning Outcomes] PLO/README.md
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
 - [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
