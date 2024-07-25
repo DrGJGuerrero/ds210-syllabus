@@ -129,6 +129,10 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 ## Class Assignments
 
+<a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio5.html"> 
+      <img alt="Sound" src="./Web/sound.svg" height="25">
+  </a>
+  
 We will be using [Blackboard](https://saintpeters.blackboard.com/), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Blackboard, and assignment and exam grades will be returned through Blackboard.*
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
