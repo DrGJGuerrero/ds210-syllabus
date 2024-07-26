@@ -22,7 +22,7 @@
 Data Science is a set of fundamental principles that guide the extraction of valuable information and knowledge from data. This course provides an overview and develops student’s understanding of the data science and analytics landscape in the context of business examples and other emerging fields. It also provides students with an understanding of the most common methods used in data analysis. Topics covered include introduction to predictive modeling, data visualization, probability distributions, Bayes’ theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.
 
 
-### Why you should know this
+#### Why you should know this
 
 Understanding data science equips you with critical thinking skills and the ability to analyze real-world problems, opening up vast career opportunities in tech, finance, healthcare, and beyond. By learning data science, you can leverage data-driven insights to make informed decisions and drive impactful changes for the greater good of others.
 
