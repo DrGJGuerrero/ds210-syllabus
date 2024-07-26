@@ -15,7 +15,7 @@
 ## Course Description 
 
   <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio1.html"> 
-      <img alt="Sound" src="./Web/sound.svg" height="25">
+     Audio <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
 
