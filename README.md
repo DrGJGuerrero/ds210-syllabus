@@ -186,12 +186,9 @@ The following grading scale will be used in this class.
 
 ##  Information Resources
 
-
 <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio7.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
-
-
 
 Resources you may need can be found here and accessible online or reserve through the O'Toole library at Saint Peter's university: 
 
@@ -209,9 +206,12 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
 
 ## Institution Policies
 
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=CLASS%20Attendance) - What we expect from you in terms of attendance for all classes at Saint Peter's University
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+<a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio8.html"> 
+      <img alt="Sound" src="./Web/sound.svg" height="25">
+  </a>
+  
+- [Code of Conduct, Equity, and Inclusion](https://www.saintpeters.edu/dean-of-students/) - Learn about Student Conduct inspired by the Jesuit ideal of Men and Women for and With Others.
+- [Academic Honesty](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=Academic%20Dishonesty) - Saint Peter's University policies around plagerism, cheating, and other forms of academic authenticity
+- [Attendance Policy](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=CLASS%20ATTENDANCE) - What we expect from you in terms of attendance for all classes at Saint Peter's University
+- [Disability Services (Academic Accommodations)](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=STUDENTS%20WITH%20DISABILITIES) - Services and accommodations Saint Peter's University provide for students
+- [Student Handbook](https://catalogs.saintpeters.edu/handbook/) - Guidelines, policies, and resources for all Saint Peter's University students
