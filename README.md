@@ -162,7 +162,7 @@ Your final grade will be based on:
 - Check-in Assessments 10%
 - Discussion Sound Bytes 10%
 - Homework/Classwork 25% 
-- Project 15% 
+- Group Project 15% 
 - Midterm Exam 15% 
 - Mock Job Interviews 25% 
 
