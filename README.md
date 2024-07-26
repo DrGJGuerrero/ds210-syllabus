@@ -210,6 +210,7 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
+
 [Code of Conduct, Equity, and Inclusion](https://www.saintpeters.edu/dean-of-students/)
 
 Learn about Student Conduct inspired by the Jesuit ideal of Men and Women for and With Others.
