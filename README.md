@@ -211,16 +211,21 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
   </a>
   
 [Code of Conduct, Equity, and Inclusion](https://www.saintpeters.edu/dean-of-students/)
+
 Learn about Student Conduct inspired by the Jesuit ideal of Men and Women for and With Others.
 
 [Academic Honesty](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=Academic%20Dishonesty)
+
 Saint Peter's University policies around plagerism, cheating, and other forms of academic authenticity
 
 [Attendance Policy](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=CLASS%20ATTENDANCE)
+
 What we expect from you in terms of attendance for all classes at Saint Peter's University
 
 [Disability Services (Academic Accommodations)](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=STUDENTS%20WITH%20DISABILITIES)
+
 Services and accommodations Saint Peter's University provide for students
 
 [Student Handbook](https://catalogs.saintpeters.edu/handbook/)
+
 Guidelines, policies, and resources for all Saint Peter's University students
