@@ -60,7 +60,7 @@ Synchronous; In-Person | 14 weeks | 42 sessions
 6. Describe business data utilization
 7. Analyze real-world datasets
 
-### Course Student Learning Outcomes
+#### Course Student Learning Outcomes
   
 Upon successful completion of this course, you will be (BETTER) able to ...
 - Problem solve and analyze data
@@ -166,7 +166,7 @@ Your final grade will be based on:
 - Midterm Exam 15% 
 - Mock Job Interviews 25% 
 
-### Grading Scale
+#### Grading Scale
 
 The following grading scale will be used in this class.
 
@@ -186,6 +186,13 @@ The following grading scale will be used in this class.
 
 ##  Information Resources
 
+
+<a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio7.html"> 
+      <img alt="Sound" src="./Web/sound.svg" height="25">
+  </a>
+
+
+
 Resources you may need can be found here and accessible online or reserve through the O'Toole library at Saint Peter's university: 
 
 #### OER (Open Education Resource) Textbooks
@@ -195,6 +202,7 @@ Felvegi, E. (2024). <em>Open Data Cases.</em> Simplebook Publishing, United Stat
 
 Library, U.Q. (2024). <em>Work with Data and Files.</em> University of Queenlands Pressbooks, United Kingdom. Retrieved from [https://uq.pressbooks.pub/digital-essentials-data-and-files/](https://uq.pressbooks.pub/digital-essentials-data-and-files/).
 
+#### ProQuest Ebooks
 Kenett, R. S., & Redman, T. C. (2019). <em>The real work of data science : Turning data into information, better decisions, and stronger organizations. </em> John Wiley & Sons, Incorporated. ProQuest Ebook Central, [https://ebookcentral.proquest.com/lib/stpu/reader.action?docID=5741750](https://ebookcentral.proquest.com/lib/stpu/reader.action?docID=5741750).
 
 Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em> Facet Publishing. ProQuest Ebook Central, [https://ebookcentral.proquest.com/lib/stpu/detail.action?docID=6244431](https://ebookcentral.proquest.com/lib/stpu/detail.action?docID=6244431).
