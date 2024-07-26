@@ -216,7 +216,7 @@ Learn about Student Conduct inspired by the Jesuit ideal of Men and Women for an
 
 [Academic Honesty](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=Academic%20Dishonesty)
 
-Saint Peter's University policies around plagerism, cheating, and other forms of academic authenticity
+Saint Peter's University policies around plagiarism, cheating, and other forms of academic authenticity
 
 [Attendance Policy](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#:~:text=CLASS%20ATTENDANCE)
 
