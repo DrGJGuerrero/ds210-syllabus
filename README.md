@@ -159,9 +159,9 @@ To pass this course you must meet the following requirements:
 - Make up all classwork from all absences
 
 Your final grade will be based on:
-- Check-in assessments 10%
-- Sound Bytes 10%
-- Homework/classwork 25% 
+- Check-in Assessments 10%
+- Discussion Sound Bytes 10%
+- Homework/Classwork 25% 
 - Project 15% 
 - Midterm Exam 15% 
 - Mock Job Interviews 25% 
@@ -211,7 +211,7 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
 
 - [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
 - [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Attendance Policy](https://www.saintpeters.edu/academics/college-of-arts-and-sciences/academic-dean/academic-policies-regulations/#CLASS%ATTENDANCE) - What we expect from you in terms of attendance for all classes at Saint Peter's University
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
