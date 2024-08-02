@@ -106,16 +106,16 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 25 |  Mon, October 28     | Visual Insights |
 | 26 |  Wed, October 30     | Interdisciplinary Research |
 | 27 |  Thurs, October 31   | In-Class Assessment |
-| 28 |  Mon, November 4     | Excel/PowerBi |
+| 28 |  Mon, November 4     | Visualization Tools |
 | 29 |  Wed, November 6     | Interdisciplinary Research |
 | 30 |  Thurs, November 7   | In-Class Assessment |
-| 31 |  Mon, November 11    | Tableau |
+| 31 |  Mon, November 11    | Data Storytelling |
 | 32 |  Wed, November 13    | Interdisciplinary Research |
 | 33 |  Thurs, November 14  | In-Class Assessment |
-| 34 |  Mon, November 18    | Data Storytelling |
+| 34 |  Mon, November 18    | Machine Learning |
 | 35 |  Wed, November 20    | Interdisciplinary Research |
 | 36 |  Thurs, November 21  | In-Class Assessment |
-| 37 |  Mon, November 25    | Machine Learning |
+| 37 |  Mon, November 25    | Term Group Project |
 | -  |  Wed, November 27    | **No Class - Thanksgiving Break** |
 | -  |  Thurs, November 28  | **No Class - Thanksgiving Break** |
 | 38 |  Mon, December 2     | Term Group Project |
