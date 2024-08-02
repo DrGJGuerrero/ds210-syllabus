@@ -69,7 +69,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
-**Class Location:** Dinneen Hall, G36
+**Class Location:** Dinneen Hall, G-09
 
 **Term Dates:** Wednesday, August 28 – Tuesday, December 17, 2024 (17 weeks)
 
