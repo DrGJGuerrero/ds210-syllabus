@@ -27,10 +27,6 @@ Data Science is a set of fundamental principles that guide the extraction of val
 Understanding data science equips you with critical thinking skills and the ability to analyze real-world problems, opening up vast career opportunities in tech, finance, healthcare, and beyond. By learning data science, you can leverage data-driven insights to make informed decisions and drive impactful changes for the greater good of others.
 
 
-## Prerequisites  
-
-- [DS 310 Principles of Data Mining](https://www.saintpeters.edu/academics/undergraduate-programs/data-science/courses/)
-
 ## Course Specifics
 
 <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio2.html"> 
