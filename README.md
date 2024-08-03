@@ -85,7 +85,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 |  5 |  Mon, September 9    | Data Analysis |
 |  6 |  Wed, September 11   | Interdisciplinary Research |
 |  7 |  Thurs, September 12 | In-Class Assessment |
-|  8 |  Mon, September 16   | Database Queries/SQL |
+|  8 |  Mon, September 16   | Database Queries |
 |  9 |  Wed, September 18   | Interdisciplinary Research |
 | 10 |  Thurs, September 19 | In-Class Assessment |
 | 11 |  Mon, September 23   | Decision Modeling |
