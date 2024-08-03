@@ -80,15 +80,15 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 |  1 |  Wed, August 28      | WELCOME!! |
 |  2 |  Thurs, August 29    | In-Class Assessment |
 |  - |  Mon, September 2    | **No Class - Labor Day** |
-|  3 |  Wed, September 4    | Probability Basics |
+|  3 |  Wed, September 4    | Data Representation |
 |  4 |  Thurs, September 5  | In-Class Assessment |
-|  5 |  Mon, September 9    | Exploratory Data Analysis |
+|  5 |  Mon, September 9    | Data Analysis |
 |  6 |  Wed, September 11   | Interdisciplinary Research |
 |  7 |  Thurs, September 12 | In-Class Assessment |
 |  8 |  Mon, September 16   | Database Queries/SQL |
 |  9 |  Wed, September 18   | Interdisciplinary Research |
 | 10 |  Thurs, September 19 | In-Class Assessment |
-| 11 |  Mon, September 23   | Regression |
+| 11 |  Mon, September 23   | Decision Modeling |
 | -  |  Wed, September 25   | **No Class - Michaelmas Convocation** |
 | 12 |  Thurs, September 26 | In-Class Assessment |
 | 13 |  Mon, September 30   | R Analytics |
