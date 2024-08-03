@@ -115,7 +115,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 34 |  Mon, November 18    | Machine Learning |
 | 35 |  Wed, November 20    | Interdisciplinary Research |
 | 36 |  Thurs, November 21  | In-Class Assessment |
-| 37 |  Mon, November 25    | Term Group Project |
+| 37 |  Mon, November 25    | Final Exam Overview |
 | -  |  Wed, November 27    | **No Class - Thanksgiving Break** |
 | -  |  Thurs, November 28  | **No Class - Thanksgiving Break** |
 | 38 |  Mon, December 2     | Term Group Project |
