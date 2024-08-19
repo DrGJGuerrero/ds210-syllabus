@@ -162,23 +162,25 @@ Your final grade will be based on:
 - Midterm Exam 15% 
 - Mock Job Interviews 25% 
 
-#### Grading Scale
+#### Performance Evaluation Criteria
 
 The following grading scale will be used in this class.
 
-| Letter Grade |          Average in Course          |
-|:-----:|:----------------------:|
-| A  |  94 - 100   |
-| A- |  90 - 93    |
-| B+ |  87 - 89    |
-| B  |  83 - 86    |
-| B- |  80 - 82    |
-| C+ |  77 - 79    |
-| C  |  73 - 76    |
-| C- |  70 - 72    |
-| D+ |  67 - 69    |
-| D  |  60 - 66    |
-| F  |  0 - 59     |
+| Letter Grade |       Performance       |    Numeric Grade    |   GPA    |
+|:-----:|:----------------------:|:----------------------:||:-----:
+| A  |   Outstanding              |  94 - 100       |  4.0  |
+| A- |   Excellent                |  90 - 93        |  3.7  |
+| B+ |   Very Good                |  86 - 89        |  3.3  |
+| B  |   Good                     |  83 - 85        |  3.0  |
+| B- |   Above Average            |  79 - 82        |  2.7  |
+| C+ |   Average                  |  75 - 78        |  2.3  |
+| C  |   Satisfactory             |  70 - 74        |  2.0  |
+| C- |   Below Average            |  66 - 69        |  1.7  |
+| D+ |   Poor yet Passing         |  62 - 65        |  1.3  |
+| D  |   Minimum for Credit       |  60 - 61        |  1.0  |
+| F  |   Failure for the Course   |  59 - below     |  0.0  |
+
+FA = Faculty has the option of giving an FA grade to students exceeding the number of permitted absences.
 
 ##  Information Resources
 
