@@ -167,7 +167,7 @@ Your final grade will be based on:
 The following grading scale will be used in this class.
 
 | Letter Grade |       Performance       |    Numeric Grade    |   GPA    |
-|:-----:|:----------------------:|:----------------------:||:-----:
+|:-----:|:----------------------:|:----------------------:|:-----:|
 | A  |   Outstanding              |  94 - 100       |  4.0  |
 | A- |   Excellent                |  90 - 93        |  3.7  |
 | B+ |   Very Good                |  86 - 89        |  3.3  |
