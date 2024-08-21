@@ -176,8 +176,8 @@ The following grading scale will be used in this class.
 | C+ |   Average                  |  75 - 78        |  2.3  |
 | C  |   Satisfactory             |  70 - 74        |  2.0  |
 | C- |   Below Average            |  66 - 69        |  1.7  |
-| D+ |   Poor yet Passing         |  62 - 65        |  1.3  |
-| D  |   Minimum for Credit       |  60 - 61        |  1.0  |
+| D+ |   Poor yet Passing         |  63 - 65        |  1.3  |
+| D  |   Minimum for Credit       |  60 - 62        |  1.0  |
 | F  |   Failure for the Course   |  59 - below     |  0.0  |
 
 FA = Faculty has the option of giving an FA grade to students exceeding the number of permitted absences.
