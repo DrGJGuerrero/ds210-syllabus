@@ -125,8 +125,11 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 42 |  TBD                 | Final Exam - Mock Job Interview |
 
 **Office Hours:**
+
 Monday 10:00am – 10:50am
+
 Wednesday 2:00pm - 4:00 pm
+
 Thursday 2:00 pm – 4:00 pm
 
 **Office Location:**
