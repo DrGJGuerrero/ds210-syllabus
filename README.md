@@ -124,6 +124,17 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 41 |  Mon, December 9     | CELEBRATION!! Term Group Project Presentation |
 | 42 |  TBD                 | Final Exam - Mock Job Interview |
 
+**Office Hours:**
+Monday 10:00am – 10:50am
+Wednesday 2:00pm - 4:00 pm
+Thursday 2:00 pm – 4:00 pm
+
+**Office Location:**
+Dinneen Hall, G-33 
+
+**E-mail:**
+gguerrero@saintpeters.edu
+ 
 ## Class Assignments
 
 <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio5.html"> 
