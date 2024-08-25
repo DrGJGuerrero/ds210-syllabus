@@ -138,7 +138,7 @@ Dinneen Hall, G-33
 **E-mail:**
 gguerrero@saintpeters.edu
 
-[Book an Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w)
+[Book a Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w)
  
 ## Class Assignments
 
