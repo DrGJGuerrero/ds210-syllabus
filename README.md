@@ -132,13 +132,13 @@ Wednesday 2:00pm - 4:00 pm
 
 Thursday 2:00 pm – 4:00 pm
 
+[Book a Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w)
+
 **Office Location:**
 Dinneen Hall, G-33 
 
 **E-mail:**
 gguerrero@saintpeters.edu
-
-[Book a Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w)
  
 ## Class Assignments
 
