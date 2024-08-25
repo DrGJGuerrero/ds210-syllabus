@@ -124,7 +124,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 41 |  Mon, December 9     | CELEBRATION!! Term Group Project Presentation |
 | 42 |  TBD                 | Final Exam - Mock Job Interview |
 
-**Office Hours:**
+**Chat Hours:**
 
 Monday 10:00am – 10:50am
 
@@ -138,7 +138,7 @@ Dinneen Hall, G-33
 **E-mail:**
 gguerrero@saintpeters.edu
 
-[Book an Appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w)
+[Book an Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w)
  
 ## Class Assignments
 
