@@ -122,7 +122,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 39 |  Wed, December 4     | Term Group Project |
 | 40 |  Thurs, December 5   | Term Group Project |
 | 41 |  Mon, December 9     | CELEBRATION!! Term Group Project Presentation |
-| 42 |  TBD                 | Final Exam - Mock Job Interview |
+| 42 |  Wed, December 11 (12:00-2:30)    | Final Exam - Mock Job Interview |
 
 **Chat Hours:**
 
