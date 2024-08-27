@@ -122,15 +122,15 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 39 |  Wed, December 4     | Term Group Project |
 | 40 |  Thurs, December 5   | Term Group Project |
 | 41 |  Mon, December 9     | CELEBRATION!! Term Group Project Presentation |
-| 42 |  Wed, December 11 (12:00-2:30)    | Final Exam - Mock Job Interview |
+| 42 |  Wed, December 11 (12:00pm - 2:30pm)    | Final Exam - Mock Job Interview |
 
 **Chat Hours:**
 
 Monday 10:00am – 10:50am
 
-Wednesday 2:00pm - 4:00 pm
+Wednesday 2:00pm - 4:00pm
 
-Thursday 2:00 pm – 4:00 pm
+Thursday 2:00pm – 4:00pm
 
 [Book a Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w)
 
