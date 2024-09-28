@@ -91,7 +91,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 11 |  Mon, September 23   | Decision Modeling |
 | -  |  Wed, September 25   | **No Class - Michaelmas Convocation** |
 | 12 |  Thurs, September 26 | In-Class Assessment |
-| 13 |  Mon, September 30   | R Analytics |
+| 13 |  Mon, September 30   | Review for Midterm Exam |
 | 14 |  Wed, October 2      | Interdisciplinary Research |
 | 15 |  Thurs, October 3    | Midterm Exam |
 | 16 |  Mon, October 7      | R Analytics |
