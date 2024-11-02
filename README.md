@@ -244,6 +244,5 @@ Services and accommodations Saint Peter's University provide for students
 [Student Handbook](https://catalogs.saintpeters.edu/handbook/)
 
 Guidelines, policies, and resources for all Saint Peter's University students
-![qrcode](https://github.com/user-attachments/assets/ccffdfda-8f32-49aa-804a-6b61cef6a2c2)
 
 
