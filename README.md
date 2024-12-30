@@ -36,7 +36,7 @@ Understanding data science equips you with critical thinking skills and the abil
   
 **Course Delivery**: 
 
-Synchronous; In-Person | 14 weeks | 42 sessions
+Synchronous; In-Person | 16~ weeks
 
 **Course Credits**: 
 
