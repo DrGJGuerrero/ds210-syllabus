@@ -24,7 +24,7 @@ Data Science is a set of fundamental principles that guide the extraction of val
 
 #### Why you should know this
 
-Understanding data science equips you with critical thinking skills and the ability to analyze real-world problems, opening up vast career opportunities in tech, finance, healthcare, and beyond. By learning data science, you can leverage data-driven insights to make informed decisions and drive impactful changes for the greater good of others.
+Understanding data science equips you with critical thinking skills and the ability to analyze real-world problems, opening doors to vast career opportunities in tech, finance, healthcare, and beyond. Rooted in Jesuit values, learning data science enables you to leverage data-driven insights to make informed decisions, foster a commitment to social justice, and drive meaningful changes for the greater good of others.
 
 
 ## Course Specifics
@@ -59,9 +59,10 @@ Synchronous; In-Person | 14 weeks | 42 sessions
 #### Course Student Learning Outcomes
   
 Upon successful completion of this course, you will be (BETTER) able to ...
-- Problem solve and analyze data
-- Utilize effective critical thinking skills
-
+- Problem solve and analyze data utilizing effective critical thinking skills
+- Demonstrates an understanding and application of Ignatian ideals
+- Use of media tools to promoting positive change in the community to explore growth in service and justice
+- Supports teamwork through respect and inclusivity while enhancing leadership qualities
 
 ## Schedule
 
