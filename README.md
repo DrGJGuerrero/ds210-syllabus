@@ -76,54 +76,25 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 **Class Times:** Monday, Wednesday, Thursday at 11:00am–11:50am (42 class sessions)
 
-| Class |          Date          |                 Topics                  |
+| Week |         Start Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, August 28      | WELCOME!! |
-|  2 |  Thurs, August 29    | In-Class Assessment |
-|  - |  Mon, September 2    | **No Class - Labor Day** |
-|  3 |  Wed, September 4    | Data Representation |
-|  4 |  Thurs, September 5  | In-Class Assessment |
-|  5 |  Mon, September 9    | Data Analysis |
-|  6 |  Wed, September 11   | Interdisciplinary Research |
-|  7 |  Thurs, September 12 | In-Class Assessment |
-|  8 |  Mon, September 16   | Database Queries |
-|  9 |  Wed, September 18   | Interdisciplinary Research |
-| 10 |  Thurs, September 19 | In-Class Assessment |
-| 11 |  Mon, September 23   | Decision Modeling |
-| -  |  Wed, September 25   | **No Class - Michaelmas Convocation** |
-| 12 |  Thurs, September 26 | In-Class Assessment |
-| 13 |  Mon, September 30   | Review for Midterm Exam |
-| 14 |  Wed, October 2      | Interdisciplinary Research |
-| 15 |  Thurs, October 3    | Midterm Exam |
-| 16 |  Mon, October 7      | R Analytics |
-| 17 |  Wed, October 9      | Interdisciplinary Research |
-| 18 |  Thurs, October 10   | In-Class Assessment |
-| 19 |  Mon, October 14     | Data Python |
-| 20 |  Wed, October 16     | Interdisciplinary Research |
-| 21 |  Thurs, October 17   | In-Class Assessment |
-| 22 |  Mon, October 21     | Data Python |
-| 23 |  Wed, October 23     | Interdisciplinary Research |
-| 24 |  Thurs, October 24   | In-Class Assessment |
-| 25 |  Mon, October 28     | Visual Insights |
-| 26 |  Wed, October 30     | Interdisciplinary Research |
-| 27 |  Thurs, October 31   | In-Class Assessment |
-| 28 |  Mon, November 4     | Visualization Tools |
-| 29 |  Wed, November 6     | Interdisciplinary Research |
-| 30 |  Thurs, November 7   | In-Class Assessment |
-| 31 |  Mon, November 11    | Data Storytelling |
-| 32 |  Wed, November 13    | Interdisciplinary Research |
-| 33 |  Thurs, November 14  | In-Class Assessment |
-| 34 |  Mon, November 18    | Machine Learning |
-| 35 |  Wed, November 20    | Interdisciplinary Research |
-| 36 |  Thurs, November 21  | In-Class Assessment |
-| 37 |  Mon, November 25    | Final Exam Overview |
-| -  |  Wed, November 27    | **No Class - Thanksgiving Break** |
-| -  |  Thurs, November 28  | **No Class - Thanksgiving Break** |
-| 38 |  Mon, December 2     | Term Group Project |
-| 39 |  Wed, December 4     | Term Group Project |
-| 40 |  Thurs, December 5   | Term Group Project |
-| 41 |  Mon, December 9     | CELEBRATION!! Term Group Project Presentation |
-| 42 |  Wed, December 11 (12:00pm - 2:30pm)    | Final Exam - Mock Job Interview |
+|  1 |  August 28      | WELCOME!! Code of Ethics in Data Science the Jesuit Way |
+|  2 |  September 4    | Multi-disciplinary Data Scientist thru an Equity Lens |
+|  3 |  September 9    | Data Analysis Life Cycle: Visit Admissions Program |
+|  4 |  September 16   | Database Meaning and Interconnectedness in All Things: Visit Athletic Program |
+| 5 |  September 23   | Decision Modeling and Discernment: Visit Career Engagement and Experiential Learning Program |
+| 6 |  September 30   | Midterm Exam: Visit Criminal Justice Program |
+| 7 |  October 7      | R Analytics and Global Studies: Visit Fine Arts - Music Program |
+| 8 |  October 14     | Data Python and Human Communication: Visit English Program |
+| 9 |  October 21     | Natural Language Processing: Visit Political Science and Communications Program |
+| 10 |  October 28     | Visual Insights |
+| 11 |  November 4     | Visualization Tools |
+| 12 |  November 11    | Data Storytelling |
+| 13 |  November 18    | Machine Learning |
+| 14 |  November 25    | Final Exam Overview |
+| 15 |  December 2     | Term Group Project |
+| 16 |  December 9     | CELEBRATION!! Term Group Project Presentation |
+| 17 |  December 11 (12:00pm - 2:30pm)    | Final Exam - Mock Job Interview |
 
 **Chat Hours:**
 
