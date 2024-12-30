@@ -72,7 +72,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 **Class Location:** Dinneen Hall, G-09
 
-**Term Dates:** Wednesday, August 28 – Tuesday, December 17, 2024 (17 weeks)
+**Term Dates:** Wednesday, August 28 – Tuesday, December 17, 2024 (16~ weeks)
 
 **Class Times:** Monday, Wednesday, Thursday at 11:00am–11:50am (42 class sessions)
 
