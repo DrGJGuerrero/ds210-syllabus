@@ -87,12 +87,12 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 7 |  October 7      | R Analytics and Global Studies: Visit Fine Arts - Music Program |
 | 8 |  October 14     | Data Python and Human Communication: Visit English Program |
 | 9 |  October 21     | Natural Language Processing: Visit Political Science and Communications Program |
-| 10 |  October 28     | Visual Insights |
-| 11 |  November 4     | Visualization Tools |
-| 12 |  November 11    | Data Storytelling |
-| 13 |  November 18    | Machine Learning |
-| 14 |  November 25    | Final Exam Overview |
-| 15 |  December 2     | Term Group Project |
+| 10 |  October 28     | Cultural Analytics: Data Dissemination Specialist from the Census Bureau |
+| 11 |  November 4     | Data Visualization and Business Intelligence: High School Leadership Mentor Program |
+| 12 |  November 11    | Data Storytelling and Sustainability: Visit Fine Arts - Graphic Design Program|
+| 13 |  November 18    | Machine Learning and Marginalized Communities: Visit Data Science Institute Program |
+| 14 |  November 25    | Final Exam Overview and Ethical Principles|
+| 15 |  December 2     | Term Group Project: Echos of Insight Podcast |
 | 16 |  December 9     | CELEBRATION!! Term Group Project Presentation |
 | 17 |  December 11 (12:00pm - 2:30pm)    | Final Exam - Mock Job Interview |
 
@@ -144,9 +144,9 @@ To pass this course you must meet the following requirements:
 
 Your final grade will be based on:
 - Check-in Assessments 10%
-- Discussion Sound Bytes 10%
+- Discussion Jesuit Value Sound Bytes 10%
 - Homework/Classwork 25% 
-- Group Project 15% 
+- Term Group Project 15% 
 - Midterm Exam 15% 
 - Mock Job Interviews 25% 
 
