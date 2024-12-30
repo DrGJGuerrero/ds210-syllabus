@@ -91,7 +91,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 11 |  November 4     | Data Visualization and Business Intelligence: High School Leadership Mentor Program |
 | 12 |  November 11    | Data Storytelling and Sustainability: Visit Fine Arts - Graphic Design Program|
 | 13 |  November 18    | Machine Learning and Marginalized Communities: Visit Data Science Institute Program |
-| 14 |  November 25    | Final Exam Overview and Ethical Principles|
+| 14 |  November 25    | Final Exam Overview and Ethic Principles|
 | 15 |  December 2     | Term Group Project: Echos of Insight Podcast |
 | 16 |  December 9     | CELEBRATION!! Term Group Project Presentation |
 | 17 |  December 11 (12:00pm - 2:30pm)    | Final Exam - Mock Job Interview |
