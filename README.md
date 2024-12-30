@@ -61,7 +61,7 @@ Synchronous; In-Person | 16~ weeks
 Upon successful completion of this course, you will be (BETTER) able to ...
 - Problem solve and analyze data utilizing effective critical thinking skills
 - Demonstrates an understanding and application of Ignatian ideals
-- Use of media tools to promoting positive change in the community to explore growth in service and justice
+- Use of media tools to promoting positive change in the community while exploring growth in service and justice
 - Supports teamwork through respect and inclusivity while enhancing leadership qualities
 
 ## Schedule
