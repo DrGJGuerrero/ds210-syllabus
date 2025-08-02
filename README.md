@@ -6,9 +6,9 @@
 
 # DS 210 - Data Science and A.I. Principles
      
-### [Click Here to View the Welcome Video](https://drive.google.com/file/d/1_SSYtBMzHD8QUnMaq8gjkUolrqXFUVYA/view?usp=sharing)
+### [Click IMAGE to View the Welcome Video](https://drive.google.com/file/d/1_SSYtBMzHD8QUnMaq8gjkUolrqXFUVYA/view?usp=sharing)
 
-  <a href="https://saintpeterspeacocks.com/"> 
+  <a href="https://drive.google.com/file/d/1_SSYtBMzHD8QUnMaq8gjkUolrqXFUVYA/view?usp=sharing"> 
       <img alt="Mascot" src="./Web/mascot.png" height="200">
   </a>
 
