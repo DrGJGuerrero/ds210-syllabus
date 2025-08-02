@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# DS 210 - Introduction to Data Science the Jesuit-Way
+# DS 210 - Data Science and A.I. Principles
      
 ### [Click Here to View the Welcome Video](https://drive.google.com/file/d/1_SSYtBMzHD8QUnMaq8gjkUolrqXFUVYA/view?usp=sharing)
 
