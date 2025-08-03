@@ -18,8 +18,7 @@
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
-
-Data Science is a set of fundamental principles that guide the extraction of valuable information and knowledge from data. This course provides an overview and develops student’s understanding of the data science and analytics landscape in the context of business examples and other emerging fields. It also provides students with an understanding of the most common methods used in data analysis. Topics covered include introduction to predictive modeling, data visualization, probability distributions, Bayes’ theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.
+Students develop a critical comprehension of the fundamental principles of data science that guide the extraction of valuable information and knowledge from data. Students apply these concepts across the data science and analytics landscape within the contexts of business examples and other emerging fields. Students explore the most common methods used in data science, addressing topics such as predictive modeling, data visualization, probability distributions, Bayes’ theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.
 
 
 #### Why you should know this
@@ -70,31 +69,34 @@ Upon successful completion of this course, you will be (BETTER) able to ...
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
-**Class Location:** Dinneen Hall, G-09
+**Class Location:** Dinneen Hall, G-27
 
-**Term Dates:** Wednesday, August 28 – Tuesday, December 17, 2024 (16~ weeks)
+**Term Dates:** Wednesday, August 27 – Wednesday, December 10, 2024 (16 weeks)
 
 **Class Times:** Monday, Wednesday, Thursday at 11:00am–11:50am (42 class sessions)
 
+**[UNIVERSITY WIDE Final Exam Schedule](https://www.saintpeters.edu/enrollment-services/records-and-registration/final-exam-schedule/)**
+
+
 | Week |         Start Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  August 28      | WELCOME!! Code of Ethics in Data Science the Jesuit Way |
-|  2 |  September 4    | Multi-disciplinary Data Scientist thru an Equity Lens |
-|  3 |  September 9    | Data Analysis Life Cycle: Visit Admissions Program |
-|  4 |  September 16   | Database Meaning and Interconnectedness in All Things: Visit Athletic Program |
-| 5 |  September 23   | Decision Modeling and Discernment: Visit Career Engagement and Experiential Learning Program |
-| 6 |  September 30   | Midterm Exam: Visit Criminal Justice Program |
-| 7 |  October 7      | R Analytics and Global Studies: Visit Fine Arts - Music Program |
-| 8 |  October 14     | Data Python and Human Communication: Visit English Program |
-| 9 |  October 21     | Natural Language Processing: Visit Political Science and Communications Program |
-| 10 |  October 28     | Cultural Analytics: Data Dissemination Specialist from the Census Bureau |
-| 11 |  November 4     | Data Visualization and Business Intelligence: High School Leadership Mentor Program |
-| 12 |  November 11    | Data Storytelling and Sustainability: Visit Fine Arts - Graphic Design Program|
-| 13 |  November 18    | Machine Learning and Marginalized Communities: Visit Data Science Institute Program |
-| 14 |  November 25    | Final Exam Overview and Ethic Principles|
-| 15 |  December 2     | Term Group Project: Echos of Insight Podcast |
-| 16 |  December 9     | CELEBRATION!! Term Group Project Presentation |
-| 17 |  December 11 (12:00pm - 2:30pm)    | Final Exam - Mock Job Interview |
+|  1 |  August 26      | WELCOME!! Code of Ethics in Data Science the Jesuit Way |
+|  2 |  September 2    | Multi-disciplinary Data Scientist thru an Equity Lens |
+|  3 |  September 8    | Data Analysis Life Cycle: Visit Admissions Program |
+|  4 |  September 15   | Database Meaning and Interconnectedness in All Things: Visit Athletic Program |
+| 5 |  September 22   | Decision Modeling and Discernment: Visit Career Engagement and Experiential Learning Program |
+| 6 |  September 29   | Midterm Exam: Visit Criminal Justice Program |
+| 7 |  October 6      | R Analytics and Global Studies: Visit Fine Arts - Music Program |
+| 8 |  October 13     | Data Python and Human Communication: Visit English Program |
+| 9 |  October 22     | Natural Language Processing: Visit Political Science and Communications Program |
+| 10 |  October 27     | Cultural Analytics: Data Dissemination Specialist from the Census Bureau |
+| 11 |  November 3     | Data Visualization and Business Intelligence: High School Leadership Mentor Program |
+| 12 |  November 10    | Data Storytelling and Sustainability: Visit Fine Arts - Graphic Design Program|
+| 13 |  November 17    | Machine Learning and Marginalized Communities: Visit Data Science Institute Program |
+| 14 |  November 24    | Final Exam Overview and Ethic Principles|
+| 15 |  December 1     | Term Group Project: Echos of Insight Podcast |
+| 16 |  December 8     | CELEBRATION!! Term Group Project Presentation |
+| 17 |  December 17 (12:00pm - 2:30pm)    | FINAL EXAM - Mock Job Interview |
 
 **Chat Hours:**
 
