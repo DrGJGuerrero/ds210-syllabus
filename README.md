@@ -35,7 +35,7 @@ Understanding data science equips you with critical thinking skills and the abil
   
 **Course Delivery**: 
 
-Synchronous; In-Person | 16~ weeks
+Synchronous; In-Person | 16 weeks
 
 **Course Credits**: 
 
@@ -102,11 +102,12 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 Monday 10:00am – 10:50am
 
-Wednesday 2:00pm - 4:00pm
+Wednesday 4:00pm - 6:00pm
 
 Thursday 2:00pm – 4:00pm
 
-[Book a Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w)
+[Book a Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w](https://calendar.app.google/apFGmgQ2Ah4dPi8K7
+)
 
 **Office Location:**
 Dinneen Hall, G-33 
