@@ -82,23 +82,23 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 | Week |         Start Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  August 26      | <align = right> WELCOME!! Code of Ethics in Data Science the Jesuit Way </align>|
-|  2 |  September 2    | Multi-disciplinary Data Scientist thru an Equity Lens |
-|  3 |  September 8    | Data Analysis Life Cycle: Visit Admissions Program |
-|  4 |  September 15   | Database Meaning and Interconnectedness in All Things: Visit Athletic Program |
-| 5 |  September 22   | Decision Modeling and Discernment: Visit Career Engagement and Experiential Learning Program |
-| 6 |  September 29   | Midterm Exam: Visit Criminal Justice Program |
-| 7 |  October 6      | R Analytics and Global Studies: Visit Fine Arts - Music Program |
-| 8 |  October 13     | Data Python and Human Communication: Visit English Program |
-| 9 |  October 22     | Natural Language Processing: Visit Political Science and Communications Program |
-| 10 |  October 27     | Cultural Analytics: Data Dissemination Specialist from the Census Bureau |
-| 11 |  November 3     | Data Visualization and Business Intelligence: High School Leadership Mentor Program |
-| 12 |  November 10    | Data Storytelling and Sustainability: Visit Fine Arts - Graphic Design Program|
-| 13 |  November 17    | Machine Learning and Marginalized Communities: Visit Data Science Institute Program |
-| 14 |  November 24    | Final Exam Overview and Ethic Principles|
-| 15 |  December 1     | Term Group Project: Echos of Insight Podcast |
-| 16 |  December 8     | CELEBRATION!! Term Group Project Presentation |
-| 17 |  December 17 (12:00pm - 2:30pm)    | FINAL EXAM - Mock Job Interview |
+|  1 |  Aug 26      | WELCOME!! Code of Ethics in Data Science the Jesuit Way|
+|  2 |  Sep 2    | Multi-disciplinary Data Scientist thru an Equity Lens |
+|  3 |  Sep 8    | Data Analysis Life Cycle: Visit Admissions Program |
+|  4 |  Sep 15   | Database Meaning and Interconnectedness in All Things: Visit Athletic Program |
+| 5 |  Sep 22   | Decision Modeling and Discernment: Visit Career Engagement and Experiential Learning Program |
+| 6 |  Sep 29   | Midterm Exam: Visit Criminal Justice Program |
+| 7 |  Oct 6      | R Analytics and Global Studies: Visit Fine Arts - Music Program |
+| 8 |  Oct 13     | Data Python and Human Communication: Visit English Program |
+| 9 |  Oct 22     | Natural Language Processing: Visit Political Science and Communications Program |
+| 10 |  Oct 27     | Cultural Analytics: Data Dissemination Specialist from the Census Bureau |
+| 11 |  Nov 3     | Data Visualization and Business Intelligence: High School Leadership Mentor Program |
+| 12 |  Nov 10    | Data Storytelling and Sustainability: Visit Fine Arts - Graphic Design Program|
+| 13 |  Nov 17    | Machine Learning and Marginalized Communities: Visit Data Science Institute Program |
+| 14 |  Nov 24    | Final Exam Overview and Ethic Principles|
+| 15 |  Dec 1     | Term Group Project: Echos of Insight Podcast |
+| 16 |  Dec 8     | CELEBRATION!! Term Group Project Presentation |
+| 17 |  Dec 17 (12:00pm - 2:30pm)    | FINAL EXAM - Mock Job Interview |
 
 **Chat Hours:**
 
