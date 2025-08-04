@@ -6,7 +6,7 @@
 
 # DS 210 - Data Science and A.I. Principles
      
-## [View Welcome Video](https://drive.google.com/file/d/1_SSYtBMzHD8QUnMaq8gjkUolrqXFUVYA/view?usp=sharing)
+<u>## [View Welcome Video](https://drive.google.com/file/d/1_SSYtBMzHD8QUnMaq8gjkUolrqXFUVYA/view?usp=sharing)</u>
 
   <a href="https://drive.google.com/file/d/1_SSYtBMzHD8QUnMaq8gjkUolrqXFUVYA/view?usp=sharing"> 
       <img alt="Mascot" src="./Web/mascot.png" height="200">
