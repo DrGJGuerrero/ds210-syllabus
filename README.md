@@ -77,7 +77,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 **Class Times:** Monday, Wednesday, Thursday at 11:00am–11:50am (42 class sessions)
 
-**[UNIVERSITY WIDE Final Exam Schedule](https://www.saintpeters.edu/enrollment-services/records-and-registration/final-exam-schedule/)**
+<u>**[UNIVERSITY WIDE Final Exam Schedule](https://www.saintpeters.edu/enrollment-services/records-and-registration/final-exam-schedule/)**</u>
 
 
 | Week |         Start Date          |                 Topics                  |
