@@ -18,12 +18,14 @@
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
-Students develop a critical comprehension of the fundamental principles of data science that guide the extraction of valuable information and knowledge from data. Students apply these concepts across the data science and analytics landscape within the contexts of business examples and other emerging fields. Students explore the most common methods used in data science, addressing topics such as predictive modeling, data visualization, probability distributions, Bayes’ theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.
+This course provides students with a foundational understanding of data science and artificial intelligence (AI) principles. We'll explore how to extract valuable information and knowledge from data, applying these concepts to real-world scenarios in business and other fields.
+
+Students will learn key methods in data science and AI, including predictive modeling, data visualization, and clustering analysis. We'll also cover essential topics like probability distributions, Bayes' theorem, and statistical inference. The course addresses decision analytic thinking, data and business strategy, as well as the challenges of cloud storage and big data analytics.
 
 
 #### Why you should know this
 
-Understanding data science equips you with critical thinking skills and the ability to analyze real-world problems, opening doors to vast career opportunities in tech, finance, healthcare, and beyond. Rooted in Jesuit values, learning data science enables you to leverage data-driven insights to make informed decisions, foster a commitment to social justice, and drive meaningful changes for the greater good of others.
+Understanding data science and AI equips students with critical thinking skills, opening doors to vast career opportunities in tech, finance, healthcare, and beyond. Rooted in Jesuit values, learning theses principles enables students to leverage data-driven insights to make informed decisions, foster a commitment to social justice, and drive meaningful changes for the greater good of others.
 
 
 ## Course Specifics
