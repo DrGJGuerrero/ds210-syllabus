@@ -98,7 +98,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 14 |  11.24    | Final Exam Overview and Ethic Principles|
 | 15 |  12.01     | Term Group Project: Echos of Insight Podcast |
 | 16 |  12.08     | CELEBRATION!! Term Group Project Presentation |
-| 17 |  12.17 (12:00pm - 2:30pm)    | FINAL EXAM - Mock Job Interview |
+| 17 |  12.17     | FINAL EXAM - Mock Job Interview (12:00pm - 2:30pm)|
 
 **Chat Hours:**
 
