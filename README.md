@@ -209,11 +209,11 @@ Learn about Student Conduct inspired by the Jesuit ideal of Men and Women for an
 
 Saint Peter's University policies around plagiarism, cheating, and other forms of academic <u>[authenticity](https://drive.google.com/file/d/1zUvgX0PLXoN73U6yOeTeYJDomUvqFJea/view?usp=sharing)</u>.
 
-<u>[Attendance Policy](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)</u>
+<u>[Attendance Policy](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/#:~:text=Class%20Attendance)</u>
 
 What we expect from you in terms of attendance for all classes at Saint Peter's University
 
-<u>[Disability Services (Academic Accommodations)](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)</u>
+<u>[Disability Services (Academic Accommodations)](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/#:~:text=Students%20with%20Disabilities)</u>
 
 Services and accommodations Saint Peter's University provide for students
 
