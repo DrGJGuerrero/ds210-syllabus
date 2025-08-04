@@ -79,9 +79,9 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 <u>**[UNIVERSITY WIDE Final Exam Schedule](https://www.saintpeters.edu/enrollment-services/records-and-registration/final-exam-schedule/)**</u>
 
-
+|:---:|:---:|:---:|
 | Week |         Start Date          |                 Topics                  |
-|:-----|:----------------------|:---------------------------------------|
+|:---|:---|:---|
 |  1 |  08.26      | WELCOME!! Code of Ethics in Data Science the Jesuit Way|
 |  2 |  09.02    | Multi-disciplinary Data Scientist thru an Equity Lens |
 |  3 |  09.08    | Data Analysis Life Cycle: Visit Admissions Program |
@@ -159,8 +159,9 @@ Your final grade will be based on:
 
 The following grading scale will be used in this class.
 
+|:---:|:---:|:---:|:---:|
 | Letter Grade |       Performance       |    Numeric Grade    |   QP    |
-|:-----:|:----------------------:|:----------------------:|:-----:|
+|:---:|:---:|:---:|:---:|
 | A  |   Outstanding              |  94 - 100       |  4.0  |
 | A- |   Excellent                |  90 - 93        |  3.7  |
 | B+ |   Very Good                |  86 - 89        |  3.3  |
