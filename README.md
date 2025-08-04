@@ -107,8 +107,8 @@ Wednesday 4:00pm - 6:00pm
 
 Thursday 2:00pm – 4:00pm
 
-[Book a Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w](https://calendar.app.google/apFGmgQ2Ah4dPi8K7
-)
+<u>[Book a Time to Chat](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Mv_6uUzkx7qnLaV44k-WKKUw9pUygMeQVRMLdCeHTlTRXT2ZHlzUrM4SpEqYKUzJxRijrx87w](https://calendar.app.google/apFGmgQ2Ah4dPi8K7
+)</u>
 
 **Office Location:**
 Dinneen Hall, G-33 
@@ -123,13 +123,13 @@ gguerrero@saintpeters.edu
   </a>
 
 
-We will be using [Blackboard](https://saintpeters.blackboard.com/), which allows us to provide fast and accurate feedback on your work.  <em>All assigned work will be submitted through Blackboard and assignment and exam grades will be returned through Blackboard.</em>
+We will be using <u>[Blackboard](https://saintpeters.blackboard.com/)</u>, which allows us to provide fast and accurate feedback on your work.  <em>All assigned work will be submitted through Blackboard and assignment and exam grades will be returned through Blackboard.</em>
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
-Your Blackboard login is your Saint Peter's University email, and your password can be changed at [Saint Peter's Technology Services](https://saintpeters.teamdynamix.com/TDClient/1977/Portal/Home/). 
+Your Blackboard login is your Saint Peter's University email, and your password can be changed at <u>[Saint Peter's Technology Services](https://saintpeters.teamdynamix.com/TDClient/1977/Portal/Home/)</u>. 
 
-If you need additional support, [CASE](https://www.saintpeters.edu/case/), the [STEM Center](https://www.saintpeters.edu/centers-institutes/stem-engagement-center/) and the [Writing Studio](https://www.saintpeters.edu/writing-studio/) programs are available as well as an online tutoring service [Tutor.com](https://docs.google.com/forms/d/e/1FAIpQLSeGwoAaOI4g7ezrLLBNxcU7xStNg6kBlq3N4CkpmJ9dbp0MAg/viewform).
+If you need additional support, <u>[CASE](https://www.saintpeters.edu/case/)</u>, the <u>[STEM Center](https://www.saintpeters.edu/centers-institutes/stem-engagement-center/)</u> and the <u>[Writing Studio](https://www.saintpeters.edu/writing-studio/)</u> programs are available as well as an online tutoring service <u>[Tutor.com](https://docs.google.com/forms/d/e/1FAIpQLSeGwoAaOI4g7ezrLLBNxcU7xStNg6kBlq3N4CkpmJ9dbp0MAg/viewform)</u>.
 
 ## Evaluation
 
@@ -201,23 +201,23 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
   </a>
 
 
-[Code of Conduct, Equity, and Inclusion](https://www.saintpeters.edu/dean-of-students/)
+<u>[Code of Conduct, Equity, and Inclusion](https://www.saintpeters.edu/dean-of-students/)</u>
 
 Learn about Student Conduct inspired by the Jesuit ideal of Men and Women for and With Others.
 
-[Academic Honesty](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)
+<u>[Academic Honesty](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)</u>
 
-Saint Peter's University policies around plagiarism, cheating, and other forms of academic [authenticity](https://drive.google.com/file/d/1zUvgX0PLXoN73U6yOeTeYJDomUvqFJea/view?usp=sharing).
+Saint Peter's University policies around plagiarism, cheating, and other forms of academic <u>[authenticity](https://drive.google.com/file/d/1zUvgX0PLXoN73U6yOeTeYJDomUvqFJea/view?usp=sharing)</u>.
 
-[Attendance Policy](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)
+<u>[Attendance Policy](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)</u>
 
 What we expect from you in terms of attendance for all classes at Saint Peter's University
 
-[Disability Services (Academic Accommodations)](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)
+<u>[Disability Services (Academic Accommodations)](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)</u>
 
 Services and accommodations Saint Peter's University provide for students
 
-[Student Handbook](https://catalogs.saintpeters.edu/handbook/)
+<u>[Student Handbook](https://catalogs.saintpeters.edu/handbook/)</u>
 
 Guidelines, policies, and resources for all Saint Peter's University students
 
