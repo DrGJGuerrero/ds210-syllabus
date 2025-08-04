@@ -205,7 +205,7 @@ Stuart, D. (2020). <em>Practical Data Science for Information Professionals.</em
 
 Learn about Student Conduct inspired by the Jesuit ideal of Men and Women for and With Others.
 
-<u>[Academic Honesty](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/)</u>
+<u>[Academic Honesty](https://catalogs.saintpeters.edu/undergraduate/introduction/academicpoliciesandregulations/#:~:text=Academic%20Dishonesty)</u>
 
 Saint Peter's University policies around plagiarism, cheating, and other forms of academic <u>[authenticity](https://drive.google.com/file/d/1zUvgX0PLXoN73U6yOeTeYJDomUvqFJea/view?usp=sharing)</u>.
 
