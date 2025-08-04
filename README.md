@@ -82,7 +82,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 | Week |         Start Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  August 26      | WELCOME!! Code of Ethics in Data Science the Jesuit Way |
+|  1 |  August 26      | <right> WELCOME!! Code of Ethics in Data Science the Jesuit Way </right>|
 |  2 |  September 2    | Multi-disciplinary Data Scientist thru an Equity Lens |
 |  3 |  September 8    | Data Analysis Life Cycle: Visit Admissions Program |
 |  4 |  September 15   | Database Meaning and Interconnectedness in All Things: Visit Athletic Program |
