@@ -17,7 +17,6 @@
   <a href="https://drgjguerrero.github.io/ds210-syllabus/#/audio1.html"> 
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
-    $ {\color{red} \text{This text is red in a math context.}} $
     
 This course provides students with a foundational understanding of data science and artificial intelligence (AI) principles. We'll explore how to extract valuable information and knowledge from data, applying these concepts to real-world scenarios in business and other fields.
 
