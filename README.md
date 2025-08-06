@@ -20,8 +20,6 @@
     
 This course provides students with a foundational understanding of data science and artificial intelligence (AI) principles. We'll explore how to extract valuable information and knowledge from data, applying these concepts to real-world scenarios in business and other fields.
 
-$${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
-
 Students will learn key methods in data science and AI, including predictive modeling, data visualization, and clustering analysis. We'll also cover essential topics like probability distributions, Bayes' theorem, and statistical inference. The course addresses decision analytic thinking, data and business strategy, as well as the challenges of cloud storage and big data analytics.
 
 
@@ -111,8 +109,7 @@ Thursday 2:00pm – 4:00pm
 
 <u>[Book a Time to Chat](https://calendar.app.google/apFGmgQ2Ah4dPi8K7)</u>
 
-
-<span style="color: purple;">Or send me an email with optional times we could meet.</span>
+$${\color{green}Or send me an email with optional times we could meet.}$$
 
 **Office Location:**
 Dinneen Hall, G-33 
