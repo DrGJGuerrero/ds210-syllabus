@@ -86,9 +86,9 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 |  3 |  09.08    | Data Analysis Life Cycle: Visit Admissions Program |
 |  4 |  09.15   | Database Meaning and Interconnectedness in All Things: Visit Athletic Program |
 | 5 |  09.22   | Decision Modeling and Discernment: Visit Career Engagement and Experiential Learning Program |
-| 6 |  09.29   | Midterm Exam: Visit Criminal Justice Program |
-| 7 |  10.06      | R Analytics and Global Studies: Visit Fine Arts - Music Program |
-| 8 |  10.13     | Data Python and Human Communication: Visit English Program |
+| 6 |  09.29   | R Analytics and Global Studies: Visit Criminal Justice Program |
+| 7 |  10.06      | Data Python and Human Communication: Visit Fine Arts - Music Program |
+| 8 |  10.13     | Midterm Exam: Visit English Program |
 | 9 |  10.22     | Natural Language Processing: Visit Political Science and Communications Program |
 | 10 |  10.27     | Cultural Analytics: Data Dissemination Specialist from the Census Bureau |
 | 11 |  11.03     | Data Visualization and Business Intelligence: High School Leadership Mentor Program |
