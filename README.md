@@ -109,7 +109,7 @@ Thursday 2:00pm – 4:00pm
 
 <u>[Book a Time to Chat](https://calendar.app.google/apFGmgQ2Ah4dPi8K7)</u>
 
-<img alt="time" src="./Web/ColorText.png" height="200">
+<img alt="time" src="./Web/ColorText.png" height="20" width = "200">
 
 **Office Location:**
 Dinneen Hall, G-33 
@@ -142,7 +142,7 @@ To pass this course, every class is a chance to learn something new!
 Use the following guidelines::
 
 - Find a support system that will cheer 🎉 you on to complete all classwork 
-- Contributing to your group project, you're building teamwork to complete the checklist ✅
+- Actively contributing to the group project helps build teamwork to complete the checklist ✅
 - Create a study group 📚 to pass the midterm exam
 - Pass the final mock job interview 🤔 according to the rubric mutually designed
 - By attending and participating, you're building a stronger foundation for your learning journey 🚙
