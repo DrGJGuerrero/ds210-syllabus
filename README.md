@@ -138,14 +138,15 @@ If you need additional support, <u>[CASE](https://www.saintpeters.edu/case/)</u>
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
-To pass this course you must meet the following requirements:
+To pass this course, every class is a chance to learn something new! 
+Use the following guidelines::
 
-- Complete all required assessments 
-- Pass the term group project according to the associated project rubric
-- Pass the midterm summative assessment according to the exam rubric
-- Pass the final mock job interview according to the rubric mutually designed
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+- Find a support system that will cheer 🎉 you on to complete all classwork 
+- Contributing to your group project, you're building teamwork to complete the checklist ✅
+- Create a study group 📚 to pass the midterm exam
+- Pass the final mock job interview 🤔 according to the rubric mutually designed
+- By attending and participating, you're building a stronger foundation for your learning journey 🚙
+- Missed a deadline ☠️ do it anyway to get some credit
 
 Your final grade will be based on:
 - Check-in Assessments 10%
