@@ -109,7 +109,7 @@ Thursday 2:00pm – 4:00pm
 
 <u>[Book a Time to Chat](https://calendar.app.google/apFGmgQ2Ah4dPi8K7)</u>
 
-<img alt="time" src="./Web/ColorText.png" height="20" width = "200">
+<img alt="time" src="./Web/ColorText.png" height="50" width = "300">
 
 **Office Location:**
 Dinneen Hall, G-33 
