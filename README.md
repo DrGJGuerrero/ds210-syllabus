@@ -144,7 +144,7 @@ Use the following guidelines::
 - Find a support system that will cheer 🎉 you on to complete all classwork 
 - Actively contributing to the group project helps build teamwork to complete the checklist ✅
 - Create a study group 📚 to pass the midterm exam
-- Pass the final mock job interview 🤔 according to the rubric mutually designed
+- Pass the final mock job interview 🤔 according to the rubric WE (instructor and student) design together
 - By attending and participating, you're building a stronger foundation for your learning journey 🚙
 - Missed a deadline ☠️ do it anyway to get some credit
 
