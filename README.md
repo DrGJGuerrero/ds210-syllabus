@@ -50,10 +50,10 @@ Synchronous; In-Person | 16 weeks
   </a>
 
 1. Explore data science and AI's latest trends
-2. Understand database query concepts
+2. Recognize database query concepts
 3. Apply fundamental statistical modeling
 4. Use basic machine learning algorithms
-5. Preview industry-standard software
+5. Evaluate industry-standard software
 6. Describe business data utilization
 7. Analyze real-world datasets
 
