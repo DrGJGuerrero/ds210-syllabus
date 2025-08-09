@@ -25,7 +25,7 @@ Students will learn key methods in data science and AI, including predictive mod
 
 #### Why you should know this
 
-Understanding data science and AI equips students with critical thinking skills, opening doors to vast career opportunities in tech, finance, healthcare, and beyond. PLUS, learning theses principles will be rooted in **Jesuit values**, enables students to leverage data-driven insights to make decisions with **discernment**, foster a commitment to **social justice**, and drive meaningful changes for **the greater good of others**.
+Understanding data science and AI equips students with critical thinking skills, opening doors to vast career opportunities in tech, finance, healthcare, and beyond. **PLUS**, learning theses principles will be rooted in **Jesuit values**, enables students to leverage data-driven insights to make decisions with **discernment**, foster a commitment to **social justice**, and drive meaningful changes for **the greater good of others**.
 
 
 ## Course Specifics
