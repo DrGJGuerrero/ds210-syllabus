@@ -18,7 +18,7 @@
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
-This course provides students with a foundational exploration of data science and artificial intelligence (AI) principles.  We'll explore how to extract valuable information and knowledge from data, applying these concepts to real-world scenarios in business and other fields.
+This course provides students with a foundational exploration of data science and artificial intelligence (AI) principles.  We'll investigate how to extract valuable information and knowledge from data, applying these concepts to real-world scenarios in business and other fields.
 
 
 Students will learn key methods in data science and AI, including predictive modeling, data visualization, and clustering analysis. We'll also cover essential topics like probability distributions, Bayes' theorem, and statistical inference. The course addresses decision analytic thinking, data and business strategy, as well as the challenges of cloud storage and big data analytics.
