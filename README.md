@@ -143,7 +143,7 @@ If you need additional support, <u>[CASE](https://www.saintpeters.edu/case/)</u>
   </a>
 
 To pass this course, every class is a chance to learn something new! 
-Use the following guidelines::
+Use the following guidelines:
 
 - Find a support system that will cheer 🎉 you on to complete all classwork 
 - Actively contributing to the group project helps build teamwork to complete the checklist ✅
