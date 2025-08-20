@@ -116,7 +116,7 @@ Thursday 2:00pm – 4:00pm
 <img alt="time" src="./Web/ColorText.png" height="80" width = "400">
 
 **Office Location:**
-Dinneen Hall, G-33 
+Dinneen Hall, G-11 
 
 **E-mail:**
 gguerrero@saintpeters.edu
