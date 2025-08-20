@@ -79,26 +79,28 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 **Class Times:** Monday, Wednesday, Thursday at 11:00am–11:50am (42 class sessions)
 
+**Weekly:** Interdisciplinary Consultation with Professionals in the Industry
+
 <u>**[UNIVERSITY WIDE Final Exam Schedule](https://www.saintpeters.edu/enrollment-services/records-and-registration/final-exam-schedule/)**</u>
 
 | Week |         Start Date          |                 Topics                  |
 |:---|:---|:---|
 |  1 |  08.26      | WELCOME!! Code of Ethics in Data Science the Jesuit Way|
 |  2 |  09.02    | Multi-disciplinary Data Scientist thru an Equity Lens |
-|  3 |  09.08    | Data Analysis Life Cycle: Visit Admissions Program |
-|  4 |  09.15   | Database Meaning and Interconnectedness in All Things: Visit Athletic Program |
-| 5 |  09.22   | Decision Modeling and Discernment: Visit Career Engagement and Experiential Learning Program |
-| 6 |  09.29   | R Analytics and Global Studies: Visit Criminal Justice Program |
-| 7 |  10.06      | Data Python and Human Communication: Visit Fine Arts - Music Program |
-| 8 |  10.13     | Midterm Exam: Visit English Program |
-| 9 |  10.22     | Natural Language Processing: Visit Political Science and Communications Program |
-| 10 |  10.27     | Cultural Analytics: Data Dissemination Specialist from the Census Bureau |
-| 11 |  11.03     | Data Visualization and Business Intelligence: High School Leadership Mentor Program |
-| 12 |  11.10    | Data Storytelling and Sustainability: Visit Fine Arts - Graphic Design Program|
-| 13 |  11.17    | Machine Learning and Marginalized Communities: Visit Data Science Institute Program |
-| 14 |  11.24    | Final Exam Overview and Ethic Principles|
-| 15 |  12.01     | Term Group Project: Echos of Insight Podcast |
-| 16 |  12.08     | CELEBRATION!! Term Group Project Presentation |
+|  3 |  09.08    | Data Analysis Life Cycle|
+|  4 |  09.15   | Database Meaning and Interconnectedness in All Things |
+| 5 |  09.22   | Decision Modeling and Discernment |
+| 6 |  09.29   | R Analytics and Global Studies |
+| 7 |  10.06      | Data Python and Human Communication|
+| 8 |  10.13     | Midterm Exam and Ethic Principles|
+| 9 |  10.22     | Natural Language Processing|
+| 10 |  10.27     | Cultural Analytics|
+| 11 |  11.03     | Data Visualization and Business Intelligence |
+| 12 |  11.10    | Data Storytelling and Sustainability|
+| 13 |  11.17    | Machine Learning and Marginalized Communities |
+| 14 |  11.24    | Term Group Project: Echos of Insight Podcast |
+| 15 |  12.01     | CELEBRATION!! Term Group Project Presentation |
+| 16 |  12.08     | Final Exam Overview |
 | 17 |  12.17     | FINAL EXAM - Mock Job Interview (12:00pm - 2:30pm)|
 
 **Chat Hours:**
