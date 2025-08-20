@@ -55,7 +55,7 @@ Synchronous; In-Person | 16 weeks
 3. Apply fundamental statistical modeling
 4. Use basic machine learning algorithms
 5. Evaluate industry-standard software
-6. Describe how a business utilizes its data
+6. Describe how a business utilizes its data along with AI
 7. Analyze real-world datasets
 
 #### Course Student Learning Outcomes
