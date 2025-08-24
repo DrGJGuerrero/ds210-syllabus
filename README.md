@@ -90,11 +90,11 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 |  3 |  09.08    | Data Analysis Life Cycle and AI's Role|
 |  4 |  09.15   | Database Meaning and Interconnectedness in All Things |
 | 5 |  09.22   | Decision Modeling and Discernment |
-| 6 |  09.29   | R Analytics and Global Studies |
-| 7 |  10.06      | Data Python and Human Communication|
-| 8 |  10.13     | Midterm Exam and AI Ethic Principles|
-| 9 |  10.22     | AI in Natural Language Processing|
-| 10 |  10.27     | Cultural Analytics|
+| 6 |  09.29   | R Analytics and Criminal Justice |
+| 7 |  10.06      | R "Square" and Human Communication|
+| 8 |  10.13     | Data Python and Midterm Exam |
+| 9 |  10.22     | Python in Natural Language Processing|
+| 10 |  10.27     | AI and Cultural Analytics|
 | 11 |  11.03     | Data Visualization and Business Intelligence |
 | 12 |  11.10    | Data Storytelling and Sustainability|
 | 13 |  11.17    | Machine Learning and Marginalized Communities |
