@@ -91,8 +91,8 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 |  4 |  09.15   | Database Meaning and Interconnectedness in All Things |
 | 5 |  09.22   | Decision Modeling and Discernment |
 | 6 |  09.29   | R Analytics and Criminal Justice |
-| 7 |  10.06      | R "Square" and Human Communication|
-| 8 |  10.13     | Data Gathering and **MIDTERM EXAM** |
+| 7 |  10.06      | R "Square" and Data Gathering|
+| 8 |  10.13     | Human Communication and **MIDTERM EXAM** |
 | 9 |  10.22     | Python in Natural Language Processing|
 | 10 |  10.27     | AI and Cultural Analytics|
 | 11 |  11.03     | Data Visualization and Business Intelligence |
