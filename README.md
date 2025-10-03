@@ -191,6 +191,8 @@ Resources you may need can be found here and accessible online or reserve throug
 #### OER (Open Education Resource) Textbooks
 Anthony, Y. (2024). <em>Statistics Through an Equity Lens.</em> ROTEL Project, United States. Retrieved from [https://rotel.pressbooks.pub/statisticsthroughequitylens/](https://rotel.pressbooks.pub/statisticsthroughequitylens/).
 
+Irizarry, R. A. (2024). <em>Introduction to data science: Data wrangling and visualization with R (2nd ed.)</em> CRC Press, Taylor & Francis Group, United States. Retrieved from [https://rafalab.dfci.harvard.edu/dsbook-part-1/](https://rafalab.dfci.harvard.edu/dsbook-part-1/).
+
 Felvegi, E. (2024). <em>Open Data Cases.</em> Simplebook Publishing, United States. Retrieved from [https://uhlibraries.pressbooks.pub/opendatacases/](https://uhlibraries.pressbooks.pub/opendatacases/).
 
 Library, U.Q. (2024). <em>Work with Data and Files.</em> University of Queenlands Pressbooks, United Kingdom. Retrieved from [https://uq.pressbooks.pub/digital-essentials-data-and-files/](https://uq.pressbooks.pub/digital-essentials-data-and-files/).
