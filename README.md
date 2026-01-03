@@ -75,7 +75,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 **Class Location:** Dinneen Hall, G-27
 
-**Term Dates:** Wednesday, August 27 – Wednesday, December 10, 2025 (16 weeks)
+**Term Dates:** Wednesday, January 14 – Monday, May 4, 2026 (16 weeks)
 
 **Class Times:** Monday, Wednesday, Thursday at 11:00am–11:50am (42 class sessions)
 
@@ -83,25 +83,25 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 
 <u>**[UNIVERSITY WIDE Final Exam Schedule](https://www.saintpeters.edu/enrollment-services/records-and-registration/final-exam-schedule/)**</u>
 
-| Week |         Start Date          |                 Topics                  |
-|:---|:---|:---|
-|  1 |  08.26      | **WELCOME!!** Code of Ethics in Data Science the Jesuit Way|
-|  2 |  09.02    | Multi-disciplinary Data Scientist thru an Equity Lens |
-|  3 |  09.08    | Data Analysis Life Cycle and AI's Role|
-|  4 |  09.15   | Database Meaning and Interconnectedness in All Things |
-| 5 |  09.22   | Decision Modeling and Discernment |
-| 6 |  09.29   | R Analytics and Criminal Justice |
-| 7 |  10.06      | R "Square" and Data Gathering|
-| 8 |  10.13     | Human Communication and **MIDTERM EXAM** |
-| 9 |  10.22     | Python in Natural Language Processing|
-| 10 |  10.27     | AI and Cultural Analytics|
-| 11 |  11.03     | Data Visualization and Business Intelligence |
-| 12 |  11.10    | Data Storytelling and Sustainability|
-| 13 |  11.17    | Machine Learning and Marginalized Communities |
-| 14 |  11.24    | Term Group Project: Echos of Insight Podcast |
-| 15 |  12.01     | **CELEBRATION!!** Term Group Project Presentation |
-| 16 |  12.08     | Final Exam Overview |
-| 17 |  12.17     | **FINAL EXAM** - Mock Job Interview (12:00pm - 2:30pm)|
+| Week |                Topics                  |
+|:---|:---|
+|  1  | **WELCOME!!** Code of Ethics in Data Science the Jesuit Way|
+|  2 | Multi-disciplinary Data Scientist thru an Equity Lens |
+|  3 | Data Analysis Life Cycle and AI's Role|
+|  4 | Database Meaning and Interconnectedness in All Things |
+| 5 | Decision Modeling and Discernment |
+| 6 | R Analytics and Criminal Justice |
+| 7 | R "Square" and Data Gathering|
+| 8 | Human Communication and **MIDTERM EXAM** |
+| 9 | Python in Natural Language Processing|
+| 10 | AI and Cultural Analytics|
+| 11 | Data Visualization and Business Intelligence |
+| 12 | Data Storytelling and Sustainability|
+| 13 | Machine Learning and Marginalized Communities |
+| 14 | Term Group Project: Echos of Insight Podcast |
+| 15 | **CELEBRATION!!** Term Group Project Presentation |
+| 16 | Final Exam Overview |
+| 17 | **FINAL EXAM** - Mock Job Interview (12:00pm - 2:30pm)|
 
 **Chat Hours:**
 
