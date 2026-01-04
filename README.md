@@ -89,7 +89,7 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 |  2 | Multi-disciplinary Data Scientist thru an Equity Lens |
 |  3 | Data Analysis Life Cycle and AI's Role|
 |  4 | Database Meaning and Interconnectedness in All Things |
-| 5 | Decision Modeling and Discernment |
+| 5 | SQL Sequel and Discernment |
 | 6 | R Analytics and Criminal Justice |
 | 7 | R "Square" and Data Gathering|
 | 8 | Human Communication and **MIDTERM EXAM** |
