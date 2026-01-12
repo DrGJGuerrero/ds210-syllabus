@@ -100,8 +100,8 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 13 | Machine Learning and Marginalized Communities |
 | 14 | Term Group Project: Echos of Insight Podcast |
 | 15 | **CELEBRATION!!** Term Group Project Presentation |
-| 16 | Final Exam Prep |
-| 17 | **FINAL EXAM** - Mock Job Interview (**Monday, May 6 from 12:00pm - 2:30pm**)|
+| 16 | Final Exam Prep (**Last Class, Tuesday, May 5**)|
+| 17 | **FINAL EXAM** - Mock Job Interview (**Wednesday, May 6 from 12:00pm - 2:30pm**)|
 
 **Chat Hours:**
 
