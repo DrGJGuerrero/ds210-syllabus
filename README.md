@@ -98,10 +98,10 @@ Upon successful completion of this course, you will be (BETTER) able to ...
 | 11 | Data Visualization and Business Intelligence |
 | 12 | Data Storytelling and Sustainability|
 | 13 | Machine Learning and Marginalized Communities |
-| 14 | Term Group Project: Echos of Insight Podcast |
+| 14 | Term Group Project: Echos of Insight Podcast & Final Exam Overview|
 | 15 | **CELEBRATION!!** Term Group Project Presentation |
-| 16 | Final Exam Prep (**Last Class, Tuesday, May 5**)|
-| 17 | **FINAL EXAM** - Mock Job Interview (**Wednesday, May 6 from 12:00pm - 2:30pm**)|
+| 16 | Final Exam Prep & **FINAL EXAM** First Group Mock Job Interview (**Last Class, Tuesday, May 5**)|
+| 17 | **FINAL EXAM** - 2nd Group Mock Job Interview (**Wednesday, May 6 from 12:00pm - 2:30pm**)|
 
 **Chat Hours:**
 
