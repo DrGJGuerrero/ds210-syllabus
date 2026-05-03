@@ -73,9 +73,9 @@ Upon successful completion of this course, you will be (BETTER) able to ...
       <img alt="Sound" src="./Web/sound.svg" height="25">
   </a>
 
-**Class Location:** Dinneen Hall, G-30
+**Class Location:** Dinneen Hall, G-30, G-41
 
-**Term Dates:** Wednesday, January 14 – Monday, May 4, 2026 (16 weeks)
+**Term Dates:** Wednesday, January 14 – Tuesday, May 5, 2026 (16 weeks)
 
 **Class Times:** Monday, Wednesday, Thursday at 11:00am–11:50am (42 class sessions)
 
